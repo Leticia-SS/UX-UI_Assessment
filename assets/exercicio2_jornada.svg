@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="548pt" height="382pt" viewBox="0.00 0.00 548.00 382.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 378)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-378 543.81,-378 543.81,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M132,-208.4C132,-208.4 12,-208.4 12,-208.4 6,-208.4 0,-202.4 0,-196.4 0,-196.4 0,-155.6 0,-155.6 0,-149.6 6,-143.6 12,-143.6 12,-143.6 132,-143.6 132,-143.6 138,-143.6 144,-149.6 144,-155.6 144,-155.6 144,-196.4 144,-196.4 144,-202.4 138,-208.4 132,-208.4"/>
+<text xml:space="preserve" text-anchor="middle" x="72" y="-179.9" font-family="Helvetica,sans-Serif" font-size="13.00" fill="white">Jornada da</text>
+<text xml:space="preserve" text-anchor="middle" x="72" y="-164.3" font-family="Helvetica,sans-Serif" font-size="13.00" fill="white">Teleconsulta</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M273.06,-330.4C273.06,-330.4 192.99,-330.4 192.99,-330.4 186.99,-330.4 180.99,-324.4 180.99,-318.4 180.99,-318.4 180.99,-305.6 180.99,-305.6 180.99,-299.6 186.99,-293.6 192.99,-293.6 192.99,-293.6 273.06,-293.6 273.06,-293.6 279.06,-293.6 285.06,-299.6 285.06,-305.6 285.06,-305.6 285.06,-318.4 285.06,-318.4 285.06,-324.4 279.06,-330.4 273.06,-330.4"/>
+<text xml:space="preserve" text-anchor="middle" x="233.03" y="-315.6" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">1. Agendamento</text>
+<text xml:space="preserve" text-anchor="middle" x="233.03" y="-301.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">e preparação</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#e63946" stroke-width="1.6" d="M110.69,-208.23C139.23,-232.64 177.83,-265.65 203.76,-287.83"/>
+<polygon fill="#e63946" stroke="#e63946" stroke-width="1.6" points="201.97,-289.52 208.88,-292.2 205.15,-285.79 201.97,-289.52"/>
+</g>
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<path fill="#f4a261" stroke="black" stroke-width="0" d="M273.38,-243.4C273.38,-243.4 192.67,-243.4 192.67,-243.4 186.67,-243.4 180.67,-237.4 180.67,-231.4 180.67,-231.4 180.67,-218.6 180.67,-218.6 180.67,-212.6 186.67,-206.6 192.67,-206.6 192.67,-206.6 273.38,-206.6 273.38,-206.6 279.38,-206.6 285.38,-212.6 285.38,-218.6 285.38,-218.6 285.38,-231.4 285.38,-231.4 285.38,-237.4 279.38,-243.4 273.38,-243.4"/>
+<text xml:space="preserve" text-anchor="middle" x="233.03" y="-228.6" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">2. Acesso e sala</text>
+<text xml:space="preserve" text-anchor="middle" x="233.03" y="-214.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">de espera virtual</text>
+</g>
+<!-- A&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>A-&gt;C</title>
+<path fill="none" stroke="#f4a261" stroke-width="1.6" d="M143.68,-197.78C153.23,-200.72 162.96,-203.72 172.3,-206.6"/>
+<polygon fill="#f4a261" stroke="#f4a261" stroke-width="1.6" points="171.39,-208.88 178.8,-208.6 172.83,-204.2 171.39,-208.88"/>
+</g>
+<!-- D -->
+<g id="node4" class="node">
+<title>D</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M274.05,-167.4C274.05,-167.4 192,-167.4 192,-167.4 186,-167.4 180,-161.4 180,-155.4 180,-155.4 180,-142.6 180,-142.6 180,-136.6 186,-130.6 192,-130.6 192,-130.6 274.05,-130.6 274.05,-130.6 280.05,-130.6 286.05,-136.6 286.05,-142.6 286.05,-142.6 286.05,-155.4 286.05,-155.4 286.05,-161.4 280.05,-167.4 274.05,-167.4"/>
+<text xml:space="preserve" text-anchor="middle" x="233.03" y="-152.6" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">3. Realização da</text>
+<text xml:space="preserve" text-anchor="middle" x="233.03" y="-138.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">teleconsulta</text>
+</g>
+<!-- A&#45;&gt;D -->
+<g id="edge3" class="edge">
+<title>A-&gt;D</title>
+<path fill="none" stroke="#2a9d8f" stroke-width="1.6" d="M143.68,-164C152.79,-162.45 162.06,-160.88 171,-159.36"/>
+<polygon fill="#2a9d8f" stroke="#2a9d8f" stroke-width="1.6" points="171.29,-161.8 177.78,-158.21 170.47,-156.97 171.29,-161.8"/>
+</g>
+<!-- E -->
+<g id="node5" class="node">
+<title>E</title>
+<path fill="#6a4c93" stroke="black" stroke-width="0" d="M273.38,-91.4C273.38,-91.4 192.67,-91.4 192.67,-91.4 186.67,-91.4 180.67,-85.4 180.67,-79.4 180.67,-79.4 180.67,-66.6 180.67,-66.6 180.67,-60.6 186.67,-54.6 192.67,-54.6 192.67,-54.6 273.38,-54.6 273.38,-54.6 279.38,-54.6 285.38,-60.6 285.38,-66.6 285.38,-66.6 285.38,-79.4 285.38,-79.4 285.38,-85.4 279.38,-91.4 273.38,-91.4"/>
+<text xml:space="preserve" text-anchor="middle" x="233.03" y="-76.6" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">4. Encerramento</text>
+<text xml:space="preserve" text-anchor="middle" x="233.03" y="-62.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">e pós-consulta</text>
+</g>
+<!-- A&#45;&gt;E -->
+<g id="edge4" class="edge">
+<title>A-&gt;E</title>
+<path fill="none" stroke="#6a4c93" stroke-width="1.6" d="M122.88,-143.69C146.57,-128.35 174.35,-110.35 195.96,-96.36"/>
+<polygon fill="#6a4c93" stroke="#6a4c93" stroke-width="1.6" points="197.05,-98.58 201.59,-92.71 194.38,-94.46 197.05,-98.58"/>
+</g>
+<!-- B1 -->
+<g id="node6" class="node">
+<title>B1</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M527.81,-374C527.81,-374 334.05,-374 334.05,-374 328.05,-374 322.05,-368 322.05,-362 322.05,-362 322.05,-306 322.05,-306 322.05,-300 328.05,-294 334.05,-294 334.05,-294 527.81,-294 527.81,-294 533.81,-294 539.81,-300 539.81,-306 539.81,-306 539.81,-362 539.81,-362 539.81,-368 533.81,-374 527.81,-374"/>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Atores: Paciente, cuidador,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-349" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">médico e central</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-337" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Ações: agendar, confirmar, receber lembrete,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-325" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">preparar aparelho</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-313" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Touchpoints: App, push/SMS,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">calendário, central, tutorial</text>
+</g>
+<!-- B&#45;&gt;B1 -->
+<g id="edge5" class="edge">
+<title>B-&gt;B1</title>
+<path fill="none" stroke="#e63946" stroke-width="1.2" d="M284.99,-317.72C293.93,-318.73 303.56,-319.81 313.45,-320.92"/>
+<polygon fill="#e63946" stroke="#e63946" stroke-width="1.2" points="313.16,-323.35 320.39,-321.7 313.71,-318.48 313.16,-323.35"/>
+</g>
+<!-- C1 -->
+<g id="node7" class="node">
+<title>C1</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M506.15,-276C506.15,-276 355.71,-276 355.71,-276 349.71,-276 343.71,-270 343.71,-264 343.71,-264 343.71,-208 343.71,-208 343.71,-202 349.71,-196 355.71,-196 355.71,-196 506.15,-196 506.15,-196 512.15,-196 518.15,-202 518.15,-208 518.15,-208 518.15,-264 518.15,-264 518.15,-270 512.15,-276 506.15,-276"/>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-263" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Atores: Paciente, cuidador,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-251" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">médico e suporte</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-239" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Ações: abrir app, autenticar,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-227" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">entrar na sala, aguardar</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-215" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Touchpoints: Login, sala de espera,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-203" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">status, chat, suporte</text>
+</g>
+<!-- C&#45;&gt;C1 -->
+<g id="edge6" class="edge">
+<title>C-&gt;C1</title>
+<path fill="none" stroke="#f4a261" stroke-width="1.2" d="M285.24,-227.88C300.64,-228.74 318.04,-229.72 335.31,-230.69"/>
+<polygon fill="#f4a261" stroke="#f4a261" stroke-width="1.2" points="334.82,-233.11 341.95,-231.06 335.1,-228.22 334.82,-233.11"/>
+</g>
+<!-- D1 -->
+<g id="node8" class="node">
+<title>D1</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M508.35,-178C508.35,-178 353.52,-178 353.52,-178 347.52,-178 341.52,-172 341.52,-166 341.52,-166 341.52,-110 341.52,-110 341.52,-104 347.52,-98 353.52,-98 353.52,-98 508.35,-98 508.35,-98 514.35,-98 520.35,-104 520.35,-110 520.35,-110 520.35,-166 520.35,-166 520.35,-172 514.35,-178 508.35,-178"/>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-165" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Atores: Paciente, cuidador</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">e médico</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-141" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Ações: conversar, mostrar sintomas,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">ouvir orientações</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Touchpoints: Vídeo, áudio, chat,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-105" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">teste de som</text>
+</g>
+<!-- D&#45;&gt;D1 -->
+<g id="edge7" class="edge">
+<title>D-&gt;D1</title>
+<path fill="none" stroke="#2a9d8f" stroke-width="1.2" d="M286.01,-146.08C300.59,-145.26 316.92,-144.35 333.21,-143.43"/>
+<polygon fill="#2a9d8f" stroke="#2a9d8f" stroke-width="1.2" points="333.04,-145.89 339.9,-143.06 332.77,-141 333.04,-145.89"/>
+</g>
+<!-- E1 -->
+<g id="node9" class="node">
+<title>E1</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M502.8,-80C502.8,-80 359.06,-80 359.06,-80 353.06,-80 347.06,-74 347.06,-68 347.06,-68 347.06,-12 347.06,-12 347.06,-6 353.06,0 359.06,0 359.06,0 502.8,0 502.8,0 508.8,0 514.8,-6 514.8,-12 514.8,-12 514.8,-68 514.8,-68 514.8,-74 508.8,-80 502.8,-80"/>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Atores: Paciente, cuidador,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">médico e central</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-43" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Ações: encerrar, receber resumo,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">agendar retorno, avaliar</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-19" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Touchpoints: Notificação, resumo,</text>
+<text xml:space="preserve" text-anchor="middle" x="430.93" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">receita digital, pesquisa</text>
+</g>
+<!-- E&#45;&gt;E1 -->
+<g id="edge8" class="edge">
+<title>E-&gt;E1</title>
+<path fill="none" stroke="#6a4c93" stroke-width="1.2" d="M285.24,-64.37C301.66,-61.61 320.37,-58.46 338.75,-55.36"/>
+<polygon fill="#6a4c93" stroke="#6a4c93" stroke-width="1.2" points="338.88,-57.82 345.38,-54.24 338.07,-52.99 338.88,-57.82"/>
+</g>
+</g>
+</svg>
