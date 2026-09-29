@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1172pt" height="176pt" viewBox="0.00 0.00 1172.00 176.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 172)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-172 1168.5,-172 1168.5,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M86.01,-71C86.01,-71 12,-71 12,-71 6,-71 0,-65 0,-59 0,-59 0,-47 0,-47 0,-41 6,-35 12,-35 12,-35 86.01,-35 86.01,-35 92.01,-35 98.01,-41 98.01,-47 98.01,-47 98.01,-59 98.01,-59 98.01,-65 92.01,-71 86.01,-71"/>
+<text xml:space="preserve" text-anchor="middle" x="49" y="-49.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">ONBOARDING</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<path fill="#f4a261" stroke="black" stroke-width="0" d="M267.83,-102.4C267.83,-102.4 188.49,-102.4 188.49,-102.4 182.49,-102.4 176.49,-96.4 176.49,-90.4 176.49,-90.4 176.49,-77.6 176.49,-77.6 176.49,-71.6 182.49,-65.6 188.49,-65.6 188.49,-65.6 267.83,-65.6 267.83,-65.6 273.83,-65.6 279.83,-71.6 279.83,-77.6 279.83,-77.6 279.83,-90.4 279.83,-90.4 279.83,-96.4 273.83,-102.4 267.83,-102.4"/>
+<text xml:space="preserve" text-anchor="middle" x="228.16" y="-87.6" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">OPERAÇÃO —</text>
+<text xml:space="preserve" text-anchor="middle" x="228.16" y="-73.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">ROTINA DIÁRIA</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M97.94,-61.39C119.57,-65.17 145.32,-69.68 168.12,-73.67"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="167.6,-76.06 174.91,-74.86 168.44,-71.24 167.6,-76.06"/>
+</g>
+<!-- A1 -->
+<g id="node4" class="node">
+<title>A1</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M310.31,-46C310.31,-46 146.01,-46 146.01,-46 140.01,-46 134.01,-40 134.01,-34 134.01,-34 134.01,-14 134.01,-14 134.01,-8 140.01,-2 146.01,-2 146.01,-2 310.31,-2 310.31,-2 316.31,-2 322.31,-8 322.31,-14 322.31,-14 322.31,-34 322.31,-34 322.31,-40 316.31,-46 310.31,-46"/>
+<text xml:space="preserve" text-anchor="middle" x="228.16" y="-33" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Ações: integração à cultura,</text>
+<text xml:space="preserve" text-anchor="middle" x="228.16" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">treinamento em protocolos,</text>
+<text xml:space="preserve" text-anchor="middle" x="228.16" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">sombra de colegas, acesso a sistemas</text>
+</g>
+<!-- A&#45;&gt;A1 -->
+<g id="edge3" class="edge">
+<title>A-&gt;A1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M97.94,-45.15C106.66,-43.73 116.05,-42.19 125.65,-40.62"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="125.82,-43.07 132.33,-39.52 125.03,-38.24 125.82,-43.07"/>
+</g>
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<path fill="#6a4c93" stroke="black" stroke-width="0" d="M489.97,-162C489.97,-162 409.96,-162 409.96,-162 403.96,-162 397.96,-156 397.96,-150 397.96,-150 397.96,-138 397.96,-138 397.96,-132 403.96,-126 409.96,-126 409.96,-126 489.97,-126 489.97,-126 495.97,-126 501.97,-132 501.97,-138 501.97,-138 501.97,-150 501.97,-150 501.97,-156 495.97,-162 489.97,-162"/>
+<text xml:space="preserve" text-anchor="middle" x="449.96" y="-140.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">OFFBOARDING</text>
+</g>
+<!-- B&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>B-&gt;C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M279.59,-97.77C312.44,-106.73 355.45,-118.47 389.9,-127.88"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="388.86,-130.13 396.26,-129.61 390.15,-125.41 388.86,-130.13"/>
+</g>
+<!-- B1 -->
+<g id="node7" class="node">
+<title>B1</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M529.62,-106C529.62,-106 370.31,-106 370.31,-106 364.31,-106 358.31,-100 358.31,-94 358.31,-94 358.31,-74 358.31,-74 358.31,-68 364.31,-62 370.31,-62 370.31,-62 529.62,-62 529.62,-62 535.62,-62 541.62,-68 541.62,-74 541.62,-74 541.62,-94 541.62,-94 541.62,-100 535.62,-106 529.62,-106"/>
+<text xml:space="preserve" text-anchor="middle" x="449.96" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Ações: monitorar fila de alertas,</text>
+<text xml:space="preserve" text-anchor="middle" x="449.96" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">triar risco, contatar paciente/cuidador,</text>
+<text xml:space="preserve" text-anchor="middle" x="449.96" y="-69" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">escalonar, registrar decisões</text>
+</g>
+<!-- B&#45;&gt;B1 -->
+<g id="edge6" class="edge">
+<title>B-&gt;B1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M279.59,-84C300.56,-84 325.67,-84 350.06,-84"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="349.83,-86.45 356.83,-84 349.83,-81.55 349.83,-86.45"/>
+</g>
+<!-- C1 -->
+<g id="node10" class="node">
+<title>C1</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M735.59,-168C735.59,-168 589.62,-168 589.62,-168 583.62,-168 577.62,-162 577.62,-156 577.62,-156 577.62,-136 577.62,-136 577.62,-130 583.62,-124 589.62,-124 589.62,-124 735.59,-124 735.59,-124 741.59,-124 747.59,-130 747.59,-136 747.59,-136 747.59,-156 747.59,-156 747.59,-162 741.59,-168 735.59,-168"/>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Ações: entrevista de saída,</text>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-143" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">devolutiva, transferência de casos,</text>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">desligamento</text>
+</g>
+<!-- C&#45;&gt;C1 -->
+<g id="edge9" class="edge">
+<title>C-&gt;C1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M501.95,-144.48C522.14,-144.68 546,-144.9 569.03,-145.12"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="568.97,-147.57 575.99,-145.19 569.02,-142.67 568.97,-147.57"/>
+</g>
+<!-- A2 -->
+<g id="node5" class="node">
+<title>A2</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M510.44,-44C510.44,-44 389.49,-44 389.49,-44 383.49,-44 377.49,-38 377.49,-32 377.49,-32 377.49,-12 377.49,-12 377.49,-6 383.49,0 389.49,0 389.49,0 510.44,0 510.44,0 516.44,0 522.44,-6 522.44,-12 522.44,-12 522.44,-32 522.44,-32 522.44,-38 516.44,-44 510.44,-44"/>
+<text xml:space="preserve" text-anchor="middle" x="449.96" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Ferramentas: LMS, manuais,</text>
+<text xml:space="preserve" text-anchor="middle" x="449.96" y="-19" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">planilhas, sistema de alertas,</text>
+<text xml:space="preserve" text-anchor="middle" x="449.96" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">prontuário, chat interno</text>
+</g>
+<!-- A1&#45;&gt;A2 -->
+<g id="edge4" class="edge">
+<title>A1-&gt;A2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M322.06,-23.15C337.78,-23.01 353.97,-22.86 369.31,-22.72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="368.95,-25.18 375.92,-22.66 368.9,-20.28 368.95,-25.18"/>
+</g>
+<!-- A3 -->
+<g id="node6" class="node">
+<title>A3</title>
+<path fill="#ffd6d6" stroke="black" stroke-width="0" d="M727.53,-44C727.53,-44 597.67,-44 597.67,-44 591.67,-44 585.67,-38 585.67,-32 585.67,-32 585.67,-12 585.67,-12 585.67,-6 591.67,0 597.67,0 597.67,0 727.53,0 727.53,0 733.53,0 739.53,-6 739.53,-12 739.53,-12 739.53,-32 739.53,-32 739.53,-38 733.53,-44 727.53,-44"/>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">Fricções: treinamento teórico</text>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-19" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">distante da prática, excesso de</text>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">informação, falta de mentoria</text>
+</g>
+<!-- A2&#45;&gt;A3 -->
+<g id="edge5" class="edge">
+<title>A2-&gt;A3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M522.28,-22C539.82,-22 558.76,-22 576.87,-22"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="576.86,-24.45 583.86,-22 576.86,-19.55 576.86,-24.45"/>
+</g>
+<!-- B2 -->
+<g id="node8" class="node">
+<title>B2</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M727.8,-106C727.8,-106 597.4,-106 597.4,-106 591.4,-106 585.4,-100 585.4,-94 585.4,-94 585.4,-74 585.4,-74 585.4,-68 591.4,-62 597.4,-62 597.4,-62 727.8,-62 727.8,-62 733.8,-62 739.8,-68 739.8,-74 739.8,-74 739.8,-94 739.8,-94 739.8,-100 733.8,-106 727.8,-106"/>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Ferramentas: painel de alertas,</text>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">IA de classificação, telefone,</text>
+<text xml:space="preserve" text-anchor="middle" x="662.6" y="-69" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">prontuário, protocolos, CRM</text>
+</g>
+<!-- B1&#45;&gt;B2 -->
+<g id="edge7" class="edge">
+<title>B1-&gt;B2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M541.52,-84C553.25,-84 565.22,-84 576.85,-84"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="576.85,-86.45 583.85,-84 576.85,-81.55 576.85,-86.45"/>
+</g>
+<!-- B3 -->
+<g id="node9" class="node">
+<title>B3</title>
+<path fill="#ffe0c0" stroke="black" stroke-width="0" d="M959.34,-106C959.34,-106 795.59,-106 795.59,-106 789.59,-106 783.59,-100 783.59,-94 783.59,-94 783.59,-74 783.59,-74 783.59,-68 789.59,-62 795.59,-62 795.59,-62 959.34,-62 959.34,-62 965.34,-62 971.34,-68 971.34,-74 971.34,-74 971.34,-94 971.34,-94 971.34,-100 965.34,-106 959.34,-106"/>
+<text xml:space="preserve" text-anchor="middle" x="877.46" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a4a00">Fricções: fila sem priorização,</text>
+<text xml:space="preserve" text-anchor="middle" x="877.46" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a4a00">falsos positivos, protocolos ambíguos,</text>
+<text xml:space="preserve" text-anchor="middle" x="877.46" y="-69" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a4a00">ferramentas fragmentadas</text>
+</g>
+<!-- B2&#45;&gt;B3 -->
+<g id="edge8" class="edge">
+<title>B2-&gt;B3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M739.55,-84C751.08,-84 763.13,-84 775.09,-84"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="774.97,-86.45 781.97,-84 774.97,-81.55 774.97,-86.45"/>
+</g>
+<!-- C2 -->
+<g id="node11" class="node">
+<title>C2</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M940.7,-164C940.7,-164 814.23,-164 814.23,-164 808.23,-164 802.23,-158 802.23,-152 802.23,-152 802.23,-140 802.23,-140 802.23,-134 808.23,-128 814.23,-128 814.23,-128 940.7,-128 940.7,-128 946.7,-128 952.7,-134 952.7,-140 952.7,-140 952.7,-152 952.7,-152 952.7,-158 946.7,-164 940.7,-164"/>
+<text xml:space="preserve" text-anchor="middle" x="877.46" y="-149" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Ferramentas: RH, formulários,</text>
+<text xml:space="preserve" text-anchor="middle" x="877.46" y="-137" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">sistema de casos</text>
+</g>
+<!-- C1&#45;&gt;C2 -->
+<g id="edge10" class="edge">
+<title>C1-&gt;C2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M747.42,-146C762.74,-146 778.71,-146 793.98,-146"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="793.57,-148.45 800.57,-146 793.57,-143.55 793.57,-148.45"/>
+</g>
+<!-- C3 -->
+<g id="node12" class="node">
+<title>C3</title>
+<path fill="#d8c8ee" stroke="black" stroke-width="0" d="M1152.5,-168C1152.5,-168 1019.34,-168 1019.34,-168 1013.34,-168 1007.34,-162 1007.34,-156 1007.34,-156 1007.34,-136 1007.34,-136 1007.34,-130 1013.34,-124 1019.34,-124 1019.34,-124 1152.5,-124 1152.5,-124 1158.5,-124 1164.5,-130 1164.5,-136 1164.5,-136 1164.5,-156 1164.5,-156 1164.5,-162 1158.5,-168 1152.5,-168"/>
+<text xml:space="preserve" text-anchor="middle" x="1085.92" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Fricções: entrevistas genéricas,</text>
+<text xml:space="preserve" text-anchor="middle" x="1085.92" y="-143" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">registro fraco, transferência</text>
+<text xml:space="preserve" text-anchor="middle" x="1085.92" y="-131" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">sem contexto</text>
+</g>
+<!-- C2&#45;&gt;C3 -->
+<g id="edge11" class="edge">
+<title>C2-&gt;C3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M952.42,-146C967.55,-146 983.59,-146 999.1,-146"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="998.83,-148.45 1005.83,-146 998.83,-143.55 998.83,-148.45"/>
+</g>
+</g>
+</svg>

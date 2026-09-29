@@ -1,0 +1,266 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="583pt" height="332pt" viewBox="0.00 0.00 583.00 332.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 328)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-328 579.37,-328 579.37,4 -4,4"/>
+<!-- IA -->
+<g id="node1" class="node">
+<title>IA</title>
+<path fill="#e9c46a" stroke="black" stroke-width="0" d="M378.6,-324C378.6,-324 263.19,-324 263.19,-324 257.19,-324 251.19,-318 251.19,-312 251.19,-312 251.19,-300 251.19,-300 251.19,-294 257.19,-288 263.19,-288 263.19,-288 378.6,-288 378.6,-288 384.6,-288 390.6,-294 390.6,-300 390.6,-300 390.6,-312 390.6,-312 390.6,-318 384.6,-324 378.6,-324"/>
+<text xml:space="preserve" text-anchor="middle" x="320.9" y="-302.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#3a2a00">IA de alertas e estoque</text>
+</g>
+<!-- O1 -->
+<g id="node2" class="node">
+<title>O1</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M101.79,-252C101.79,-252 12,-252 12,-252 6,-252 0,-246 0,-240 0,-240 0,-228 0,-228 0,-222 6,-216 12,-216 12,-216 101.79,-216 101.79,-216 107.79,-216 113.79,-222 113.79,-228 113.79,-228 113.79,-240 113.79,-240 113.79,-246 107.79,-252 101.79,-252"/>
+<text xml:space="preserve" text-anchor="middle" x="56.9" y="-230.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">OPORTUNIDADE 1</text>
+</g>
+<!-- IA&#45;&gt;O1 -->
+<g id="edge1" class="edge">
+<title>IA-&gt;O1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M256.99,-288.05C216.02,-277.19 162.99,-263.13 121.82,-252.21"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="122.49,-249.86 115.09,-250.43 121.23,-254.59 122.49,-249.86"/>
+</g>
+<!-- O2 -->
+<g id="node6" class="node">
+<title>O2</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M233.79,-252C233.79,-252 144,-252 144,-252 138,-252 132,-246 132,-240 132,-240 132,-228 132,-228 132,-222 138,-216 144,-216 144,-216 233.79,-216 233.79,-216 239.79,-216 245.79,-222 245.79,-228 245.79,-228 245.79,-240 245.79,-240 245.79,-246 239.79,-252 233.79,-252"/>
+<text xml:space="preserve" text-anchor="middle" x="188.9" y="-230.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">OPORTUNIDADE 2</text>
+</g>
+<!-- IA&#45;&gt;O2 -->
+<g id="edge5" class="edge">
+<title>IA-&gt;O2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M288.94,-288.05C270.62,-278.34 247.48,-266.07 228.07,-255.77"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="229.36,-253.68 222.03,-252.57 227.06,-258.01 229.36,-253.68"/>
+</g>
+<!-- O3 -->
+<g id="node10" class="node">
+<title>O3</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M365.79,-252C365.79,-252 276,-252 276,-252 270,-252 264,-246 264,-240 264,-240 264,-228 264,-228 264,-222 270,-216 276,-216 276,-216 365.79,-216 365.79,-216 371.79,-216 377.79,-222 377.79,-228 377.79,-228 377.79,-240 377.79,-240 377.79,-246 371.79,-252 365.79,-252"/>
+<text xml:space="preserve" text-anchor="middle" x="320.9" y="-230.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">OPORTUNIDADE 3</text>
+</g>
+<!-- IA&#45;&gt;O3 -->
+<g id="edge9" class="edge">
+<title>IA-&gt;O3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M320.9,-288.05C320.9,-279.71 320.9,-269.49 320.9,-260.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="323.35,-260.45 320.9,-253.45 318.45,-260.45 323.35,-260.45"/>
+</g>
+<!-- A1 -->
+<g id="node14" class="node">
+<title>A1</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M449.65,-252C449.65,-252 408.14,-252 408.14,-252 402.14,-252 396.14,-246 396.14,-240 396.14,-240 396.14,-228 396.14,-228 396.14,-222 402.14,-216 408.14,-216 408.14,-216 449.65,-216 449.65,-216 455.65,-216 461.65,-222 461.65,-228 461.65,-228 461.65,-240 461.65,-240 461.65,-246 455.65,-252 449.65,-252"/>
+<text xml:space="preserve" text-anchor="middle" x="428.9" y="-230.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">ATRITO 1</text>
+</g>
+<!-- IA&#45;&gt;A1 -->
+<g id="edge13" class="edge">
+<title>IA-&gt;A1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M347.04,-288.05C361.76,-278.51 380.3,-266.5 396,-256.32"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="397.05,-258.56 401.6,-252.69 394.39,-254.45 397.05,-258.56"/>
+</g>
+<!-- A2 -->
+<g id="node18" class="node">
+<title>A2</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M538.65,-252C538.65,-252 497.14,-252 497.14,-252 491.14,-252 485.14,-246 485.14,-240 485.14,-240 485.14,-228 485.14,-228 485.14,-222 491.14,-216 497.14,-216 497.14,-216 538.65,-216 538.65,-216 544.65,-216 550.65,-222 550.65,-228 550.65,-228 550.65,-240 550.65,-240 550.65,-246 544.65,-252 538.65,-252"/>
+<text xml:space="preserve" text-anchor="middle" x="517.9" y="-230.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">ATRITO 2</text>
+</g>
+<!-- IA&#45;&gt;A2 -->
+<g id="edge17" class="edge">
+<title>IA-&gt;A2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M369.23,-288.02C398.64,-277.67 436.96,-264.13 470.9,-252 473.08,-251.22 475.32,-250.42 477.58,-249.6"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="477.97,-252.07 483.72,-247.39 476.31,-247.46 477.97,-252.07"/>
+</g>
+<!-- O1A -->
+<g id="node3" class="node">
+<title>O1A</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M84.03,-180C84.03,-180 29.76,-180 29.76,-180 23.76,-180 17.76,-174 17.76,-168 17.76,-168 17.76,-156 17.76,-156 17.76,-150 23.76,-144 29.76,-144 29.76,-144 84.03,-144 84.03,-144 90.03,-144 96.03,-150 96.03,-156 96.03,-156 96.03,-168 96.03,-168 96.03,-174 90.03,-180 84.03,-180"/>
+<text xml:space="preserve" text-anchor="middle" x="56.9" y="-165" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">IA identifica</text>
+<text xml:space="preserve" text-anchor="middle" x="56.9" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">estoque baixo</text>
+</g>
+<!-- O1&#45;&gt;O1A -->
+<g id="edge2" class="edge">
+<title>O1-&gt;O1A</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M56.9,-216.05C56.9,-207.71 56.9,-197.49 56.9,-188.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="59.35,-188.45 56.9,-181.45 54.45,-188.45 59.35,-188.45"/>
+</g>
+<!-- O1B -->
+<g id="node4" class="node">
+<title>O1B</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M96.53,-108C96.53,-108 17.26,-108 17.26,-108 11.26,-108 5.26,-102 5.26,-96 5.26,-96 5.26,-84 5.26,-84 5.26,-78 11.26,-72 17.26,-72 17.26,-72 96.53,-72 96.53,-72 102.53,-72 108.53,-78 108.53,-84 108.53,-84 108.53,-96 108.53,-96 108.53,-102 102.53,-108 96.53,-108"/>
+<text xml:space="preserve" text-anchor="middle" x="56.9" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Solicita aprovação</text>
+<text xml:space="preserve" text-anchor="middle" x="56.9" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">do médico/cuidador</text>
+</g>
+<!-- O1A&#45;&gt;O1B -->
+<g id="edge3" class="edge">
+<title>O1A-&gt;O1B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M56.9,-144.05C56.9,-135.71 56.9,-125.49 56.9,-116.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="59.35,-116.45 56.9,-109.45 54.45,-116.45 59.35,-116.45"/>
+</g>
+<!-- O1C -->
+<g id="node5" class="node">
+<title>O1C</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M90.41,-36C90.41,-36 23.38,-36 23.38,-36 17.38,-36 11.38,-30 11.38,-24 11.38,-24 11.38,-12 11.38,-12 11.38,-6 17.38,0 23.38,0 23.38,0 90.41,0 90.41,0 96.41,0 102.41,-6 102.41,-12 102.41,-12 102.41,-24 102.41,-24 102.41,-30 96.41,-36 90.41,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="56.9" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Farmácia recebe</text>
+<text xml:space="preserve" text-anchor="middle" x="56.9" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">solicitação</text>
+</g>
+<!-- O1B&#45;&gt;O1C -->
+<g id="edge4" class="edge">
+<title>O1B-&gt;O1C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M56.9,-72.05C56.9,-63.71 56.9,-53.49 56.9,-44.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="59.35,-44.45 56.9,-37.45 54.45,-44.45 59.35,-44.45"/>
+</g>
+<!-- O2A -->
+<g id="node7" class="node">
+<title>O2A</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M223.25,-180C223.25,-180 154.54,-180 154.54,-180 148.54,-180 142.54,-174 142.54,-168 142.54,-168 142.54,-156 142.54,-156 142.54,-150 148.54,-144 154.54,-144 154.54,-144 223.25,-144 223.25,-144 229.25,-144 235.25,-150 235.25,-156 235.25,-156 235.25,-168 235.25,-168 235.25,-174 229.25,-180 223.25,-180"/>
+<text xml:space="preserve" text-anchor="middle" x="188.9" y="-165" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Central integrada</text>
+<text xml:space="preserve" text-anchor="middle" x="188.9" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">à farmácia</text>
+</g>
+<!-- O2&#45;&gt;O2A -->
+<g id="edge6" class="edge">
+<title>O2-&gt;O2A</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M188.9,-216.05C188.9,-207.71 188.9,-197.49 188.9,-188.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="191.35,-188.45 188.9,-181.45 186.45,-188.45 191.35,-188.45"/>
+</g>
+<!-- O2B -->
+<g id="node8" class="node">
+<title>O2B</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M223.53,-108C223.53,-108 154.27,-108 154.27,-108 148.27,-108 142.27,-102 142.27,-96 142.27,-96 142.27,-84 142.27,-84 142.27,-78 148.27,-72 154.27,-72 154.27,-72 223.53,-72 223.53,-72 229.53,-72 235.53,-78 235.53,-84 235.53,-84 235.53,-96 235.53,-96 235.53,-102 229.53,-108 223.53,-108"/>
+<text xml:space="preserve" text-anchor="middle" x="188.9" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Confirma entrega</text>
+</g>
+<!-- O2A&#45;&gt;O2B -->
+<g id="edge7" class="edge">
+<title>O2A-&gt;O2B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M188.9,-144.05C188.9,-135.71 188.9,-125.49 188.9,-116.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="191.35,-116.45 188.9,-109.45 186.45,-116.45 191.35,-116.45"/>
+</g>
+<!-- O2C -->
+<g id="node9" class="node">
+<title>O2C</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M229.37,-36C229.37,-36 148.42,-36 148.42,-36 142.42,-36 136.42,-30 136.42,-24 136.42,-24 136.42,-12 136.42,-12 136.42,-6 142.42,0 148.42,0 148.42,0 229.37,0 229.37,0 235.37,0 241.37,-6 241.37,-12 241.37,-12 241.37,-24 241.37,-24 241.37,-30 235.37,-36 229.37,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="188.9" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Acompanha adesão</text>
+<text xml:space="preserve" text-anchor="middle" x="188.9" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">e rastreio</text>
+</g>
+<!-- O2B&#45;&gt;O2C -->
+<g id="edge8" class="edge">
+<title>O2B-&gt;O2C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M188.9,-72.05C188.9,-63.71 188.9,-53.49 188.9,-44.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="191.35,-44.45 188.9,-37.45 186.45,-44.45 191.35,-44.45"/>
+</g>
+<!-- O3A -->
+<g id="node11" class="node">
+<title>O3A</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M353.58,-180C353.58,-180 288.21,-180 288.21,-180 282.21,-180 276.21,-174 276.21,-168 276.21,-168 276.21,-156 276.21,-156 276.21,-150 282.21,-144 288.21,-144 288.21,-144 353.58,-144 353.58,-144 359.58,-144 365.58,-150 365.58,-156 365.58,-156 365.58,-168 365.58,-168 365.58,-174 359.58,-180 353.58,-180"/>
+<text xml:space="preserve" text-anchor="middle" x="320.9" y="-165" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Portal médico</text>
+<text xml:space="preserve" text-anchor="middle" x="320.9" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">envia prescrição</text>
+</g>
+<!-- O3&#45;&gt;O3A -->
+<g id="edge10" class="edge">
+<title>O3-&gt;O3A</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M320.9,-216.05C320.9,-207.71 320.9,-197.49 320.9,-188.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="323.35,-188.45 320.9,-181.45 318.45,-188.45 323.35,-188.45"/>
+</g>
+<!-- O3B -->
+<g id="node12" class="node">
+<title>O3B</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M354.41,-108C354.41,-108 287.38,-108 287.38,-108 281.38,-108 275.38,-102 275.38,-96 275.38,-96 275.38,-84 275.38,-84 275.38,-78 281.38,-72 287.38,-72 287.38,-72 354.41,-72 354.41,-72 360.41,-72 366.41,-78 366.41,-84 366.41,-84 366.41,-96 366.41,-96 366.41,-102 360.41,-108 354.41,-108"/>
+<text xml:space="preserve" text-anchor="middle" x="320.9" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Farmácia recebe</text>
+<text xml:space="preserve" text-anchor="middle" x="320.9" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">diretamente</text>
+</g>
+<!-- O3A&#45;&gt;O3B -->
+<g id="edge11" class="edge">
+<title>O3A-&gt;O3B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M320.9,-144.05C320.9,-135.71 320.9,-125.49 320.9,-116.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="323.35,-116.45 320.9,-109.45 318.45,-116.45 323.35,-116.45"/>
+</g>
+<!-- O3C -->
+<g id="node13" class="node">
+<title>O3C</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M346.35,-36C346.35,-36 295.44,-36 295.44,-36 289.44,-36 283.44,-30 283.44,-24 283.44,-24 283.44,-12 283.44,-12 283.44,-6 289.44,0 295.44,0 295.44,0 346.35,0 346.35,0 352.35,0 358.35,-6 358.35,-12 358.35,-12 358.35,-24 358.35,-24 358.35,-30 352.35,-36 346.35,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="320.9" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Sistema gera</text>
+<text xml:space="preserve" text-anchor="middle" x="320.9" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">lembrete</text>
+</g>
+<!-- O3B&#45;&gt;O3C -->
+<g id="edge12" class="edge">
+<title>O3B-&gt;O3C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M320.9,-72.05C320.9,-63.71 320.9,-53.49 320.9,-44.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="323.35,-44.45 320.9,-37.45 318.45,-44.45 323.35,-44.45"/>
+</g>
+<!-- A1A -->
+<g id="node15" class="node">
+<title>A1A</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M447.35,-180C447.35,-180 406.44,-180 406.44,-180 400.44,-180 394.44,-174 394.44,-168 394.44,-168 394.44,-156 394.44,-156 394.44,-150 400.44,-144 406.44,-144 406.44,-144 447.35,-144 447.35,-144 453.35,-144 459.35,-150 459.35,-156 459.35,-156 459.35,-168 459.35,-168 459.35,-174 453.35,-180 447.35,-180"/>
+<text xml:space="preserve" text-anchor="middle" x="426.9" y="-165" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Reposição</text>
+<text xml:space="preserve" text-anchor="middle" x="426.9" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">automática</text>
+</g>
+<!-- A1&#45;&gt;A1A -->
+<g id="edge14" class="edge">
+<title>A1-&gt;A1A</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M428.41,-216.05C428.17,-207.71 427.88,-197.49 427.62,-188.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="430.07,-188.38 427.42,-181.45 425.17,-188.52 430.07,-188.38"/>
+</g>
+<!-- A1B -->
+<g id="node16" class="node">
+<title>A1B</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M455.97,-108C455.97,-108 397.82,-108 397.82,-108 391.82,-108 385.82,-102 385.82,-96 385.82,-96 385.82,-84 385.82,-84 385.82,-78 391.82,-72 397.82,-72 397.82,-72 455.97,-72 455.97,-72 461.97,-72 467.97,-78 467.97,-84 467.97,-84 467.97,-96 467.97,-96 467.97,-102 461.97,-108 455.97,-108"/>
+<text xml:space="preserve" text-anchor="middle" x="426.9" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Sem validação</text>
+<text xml:space="preserve" text-anchor="middle" x="426.9" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">clínica</text>
+</g>
+<!-- A1A&#45;&gt;A1B -->
+<g id="edge15" class="edge">
+<title>A1A-&gt;A1B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M426.9,-144.05C426.9,-135.71 426.9,-125.49 426.9,-116.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="429.35,-116.45 426.9,-109.45 424.45,-116.45 429.35,-116.45"/>
+</g>
+<!-- A1C -->
+<g id="node17" class="node">
+<title>A1C</title>
+<path fill="#ffd6d6" stroke="black" stroke-width="0" d="M440.35,-36C440.35,-36 389.44,-36 389.44,-36 383.44,-36 377.44,-30 377.44,-24 377.44,-24 377.44,-12 377.44,-12 377.44,-6 383.44,0 389.44,0 389.44,0 440.35,0 440.35,0 446.35,0 452.35,-6 452.35,-12 452.35,-12 452.35,-24 452.35,-24 452.35,-30 446.35,-36 440.35,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="414.9" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">Risco clínico</text>
+<text xml:space="preserve" text-anchor="middle" x="414.9" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">e legal</text>
+</g>
+<!-- A1B&#45;&gt;A1C -->
+<g id="edge16" class="edge">
+<title>A1B-&gt;A1C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M423.99,-72.05C422.56,-63.71 420.81,-53.49 419.22,-44.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="421.65,-43.92 418.06,-37.43 416.82,-44.74 421.65,-43.92"/>
+</g>
+<!-- A2A -->
+<g id="node19" class="node">
+<title>A2A</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M554.31,-180C554.31,-180 489.48,-180 489.48,-180 483.48,-180 477.48,-174 477.48,-168 477.48,-168 477.48,-156 477.48,-156 477.48,-150 483.48,-144 489.48,-144 489.48,-144 554.31,-144 554.31,-144 560.31,-144 566.31,-150 566.31,-156 566.31,-156 566.31,-168 566.31,-168 566.31,-174 560.31,-180 554.31,-180"/>
+<text xml:space="preserve" text-anchor="middle" x="521.9" y="-165" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Dependência do</text>
+<text xml:space="preserve" text-anchor="middle" x="521.9" y="-153" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">relato do idoso</text>
+</g>
+<!-- A2&#45;&gt;A2A -->
+<g id="edge18" class="edge">
+<title>A2-&gt;A2A</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M518.86,-216.05C519.34,-207.71 519.92,-197.49 520.45,-188.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="522.89,-188.58 520.84,-181.45 518,-188.3 522.89,-188.58"/>
+</g>
+<!-- A2B -->
+<g id="node20" class="node">
+<title>A2B</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M545.97,-108C545.97,-108 497.82,-108 497.82,-108 491.82,-108 485.82,-102 485.82,-96 485.82,-96 485.82,-84 485.82,-84 485.82,-78 491.82,-72 497.82,-72 497.82,-72 545.97,-72 545.97,-72 551.97,-72 557.97,-78 557.97,-84 557.97,-84 557.97,-96 557.97,-96 557.97,-102 551.97,-108 545.97,-108"/>
+<text xml:space="preserve" text-anchor="middle" x="521.9" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Estoque não</text>
+<text xml:space="preserve" text-anchor="middle" x="521.9" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">integrado</text>
+</g>
+<!-- A2A&#45;&gt;A2B -->
+<g id="edge19" class="edge">
+<title>A2A-&gt;A2B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M521.9,-144.05C521.9,-135.71 521.9,-125.49 521.9,-116.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="524.35,-116.45 521.9,-109.45 519.45,-116.45 524.35,-116.45"/>
+</g>
+<!-- A2C -->
+<g id="node21" class="node">
+<title>A2C</title>
+<path fill="#ffd6d6" stroke="black" stroke-width="0" d="M563.37,-36C563.37,-36 482.42,-36 482.42,-36 476.42,-36 470.42,-30 470.42,-24 470.42,-24 470.42,-12 470.42,-12 470.42,-6 476.42,0 482.42,0 482.42,0 563.37,0 563.37,0 569.37,0 575.37,-6 575.37,-12 575.37,-12 575.37,-24 575.37,-24 575.37,-30 569.37,-36 563.37,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="522.9" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">Baixa confiabilidade</text>
+<text xml:space="preserve" text-anchor="middle" x="522.9" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">e atraso</text>
+</g>
+<!-- A2B&#45;&gt;A2C -->
+<g id="edge20" class="edge">
+<title>A2B-&gt;A2C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M522.14,-72.05C522.26,-63.71 522.4,-53.49 522.54,-44.25"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="524.98,-44.49 522.63,-37.45 520.08,-44.42 524.98,-44.49"/>
+</g>
+</g>
+</svg>

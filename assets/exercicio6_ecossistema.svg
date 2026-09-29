@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="935pt" height="288pt" viewBox="0.00 0.00 935.00 288.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 284)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-284 931.4,-284 931.4,4 -4,4"/>
+<!-- P -->
+<g id="node1" class="node">
+<title>P</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M82.72,-101C82.72,-101 12,-101 12,-101 6,-101 0,-95 0,-89 0,-89 0,-77 0,-77 0,-71 6,-65 12,-65 12,-65 82.72,-65 82.72,-65 88.72,-65 94.72,-71 94.72,-77 94.72,-77 94.72,-89 94.72,-89 94.72,-95 88.72,-101 82.72,-101"/>
+<text xml:space="preserve" text-anchor="middle" x="47.36" y="-79.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">Paciente idoso</text>
+</g>
+<!-- C -->
+<g id="node2" class="node">
+<title>C</title>
+<path fill="#f4a261" stroke="black" stroke-width="0" d="M225.42,-188C225.42,-188 142.72,-188 142.72,-188 136.72,-188 130.72,-182 130.72,-176 130.72,-176 130.72,-164 130.72,-164 130.72,-158 136.72,-152 142.72,-152 142.72,-152 225.42,-152 225.42,-152 231.42,-152 237.42,-158 237.42,-164 237.42,-164 237.42,-176 237.42,-176 237.42,-182 231.42,-188 225.42,-188"/>
+<text xml:space="preserve" text-anchor="middle" x="184.07" y="-166.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">Cuidador familiar</text>
+</g>
+<!-- P&#45;&gt;C -->
+<g id="edge4" class="edge">
+<title>P-&gt;C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M83.02,-105.38C103.1,-118.35 128.29,-134.62 148.37,-147.59"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="84.55,-103.46 77.34,-101.72 81.9,-107.57 84.55,-103.46"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="146.92,-149.57 154.12,-151.3 149.57,-145.45 146.92,-149.57"/>
+</g>
+<!-- W -->
+<g id="node3" class="node">
+<title>W</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M343.16,-74C343.16,-74 299.8,-74 299.8,-74 293.8,-74 287.8,-68 287.8,-62 287.8,-62 287.8,-50 287.8,-50 287.8,-44 293.8,-38 299.8,-38 299.8,-38 343.16,-38 343.16,-38 349.16,-38 355.16,-44 355.16,-50 355.16,-50 355.16,-62 355.16,-62 355.16,-68 349.16,-74 343.16,-74"/>
+<text xml:space="preserve" text-anchor="middle" x="321.48" y="-52.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">Wearable</text>
+</g>
+<!-- P&#45;&gt;W -->
+<g id="edge1" class="edge">
+<title>P-&gt;W</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M102.83,-77.6C155.06,-72.41 232.72,-64.71 279.78,-60.04"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="102.9,-75.13 96.18,-78.26 103.39,-80 102.9,-75.13"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="279.81,-62.5 286.54,-59.37 279.33,-57.62 279.81,-62.5"/>
+</g>
+<!-- AP -->
+<g id="node4" class="node">
+<title>AP</title>
+<path fill="#264653" stroke="black" stroke-width="0" d="M489.05,-36C489.05,-36 417.54,-36 417.54,-36 411.54,-36 405.54,-30 405.54,-24 405.54,-24 405.54,-12 405.54,-12 405.54,-6 411.54,0 417.54,0 417.54,0 489.05,0 489.05,0 495.05,0 501.05,-6 501.05,-12 501.05,-12 501.05,-24 501.05,-24 501.05,-30 495.05,-36 489.05,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="453.29" y="-14.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">App do paciente</text>
+</g>
+<!-- P&#45;&gt;AP -->
+<g id="edge2" class="edge">
+<title>P-&gt;AP</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M102.59,-68.18C111.95,-65.72 121.61,-63.24 130.72,-61 193.84,-45.5 209.07,-38.13 273.42,-29 314.77,-23.13 361.94,-20.39 397.45,-19.11"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="102.2,-65.75 96.06,-69.91 103.45,-70.49 102.2,-65.75"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="397.19,-21.58 404.1,-18.89 397.02,-16.68 397.19,-21.58"/>
+</g>
+<!-- CT -->
+<g id="node7" class="node">
+<title>CT</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M655.4,-158C655.4,-158 549.05,-158 549.05,-158 543.05,-158 537.05,-152 537.05,-146 537.05,-146 537.05,-134 537.05,-134 537.05,-128 543.05,-122 549.05,-122 549.05,-122 655.4,-122 655.4,-122 661.4,-122 667.4,-128 667.4,-134 667.4,-134 667.4,-146 667.4,-146 667.4,-152 661.4,-158 655.4,-158"/>
+<text xml:space="preserve" text-anchor="middle" x="602.22" y="-136.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Central de atendimento</text>
+</g>
+<!-- P&#45;&gt;CT -->
+<g id="edge3" class="edge">
+<title>P-&gt;CT</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M102.93,-88.63C203.12,-98.96 416.39,-120.94 528.66,-132.52"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="103.42,-86.21 96.2,-87.93 102.91,-91.09 103.42,-86.21"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="528.35,-134.95 535.56,-133.23 528.85,-130.08 528.35,-134.95"/>
+</g>
+<!-- AC -->
+<g id="node5" class="node">
+<title>AC</title>
+<path fill="#264653" stroke="black" stroke-width="0" d="M357.54,-211C357.54,-211 285.42,-211 285.42,-211 279.42,-211 273.42,-205 273.42,-199 273.42,-199 273.42,-187 273.42,-187 273.42,-181 279.42,-175 285.42,-175 285.42,-175 357.54,-175 357.54,-175 363.54,-175 369.54,-181 369.54,-187 369.54,-187 369.54,-199 369.54,-199 369.54,-205 363.54,-211 357.54,-211"/>
+<text xml:space="preserve" text-anchor="middle" x="321.48" y="-189.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">App do cuidador</text>
+</g>
+<!-- C&#45;&gt;AC -->
+<g id="edge5" class="edge">
+<title>C-&gt;AC</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M245.34,-180.24C252.04,-181.37 258.84,-182.53 265.46,-183.66"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="245.99,-177.86 238.68,-179.11 245.17,-182.69 245.99,-177.86"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="264.8,-186.03 272.11,-184.78 265.62,-181.2 264.8,-186.03"/>
+</g>
+<!-- M -->
+<g id="node6" class="node">
+<title>M</title>
+<path fill="#6a4c93" stroke="black" stroke-width="0" d="M482.92,-280C482.92,-280 423.67,-280 423.67,-280 417.67,-280 411.67,-274 411.67,-268 411.67,-268 411.67,-256 411.67,-256 411.67,-250 417.67,-244 423.67,-244 423.67,-244 482.92,-244 482.92,-244 488.92,-244 494.92,-250 494.92,-256 494.92,-256 494.92,-268 494.92,-268 494.92,-274 488.92,-280 482.92,-280"/>
+<text xml:space="preserve" text-anchor="middle" x="453.29" y="-258.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Portal médico</text>
+</g>
+<!-- C&#45;&gt;M -->
+<g id="edge7" class="edge">
+<title>C-&gt;M</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M219,-192.21C234.98,-201.88 254.63,-212.65 273.42,-220 315.91,-236.62 366.76,-247.78 403.36,-254.39"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="220.59,-190.32 213.35,-188.74 218.03,-194.49 220.59,-190.32"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="402.92,-256.8 410.24,-255.6 403.77,-251.97 402.92,-256.8"/>
+</g>
+<!-- C&#45;&gt;CT -->
+<g id="edge6" class="edge">
+<title>C-&gt;CT</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M245.63,-165.63C320.68,-160.22 448.44,-151.01 528.66,-145.23"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="245.82,-163.16 239.02,-166.11 246.18,-168.05 245.82,-163.16"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="528.77,-147.68 535.57,-144.73 528.41,-142.79 528.77,-147.68"/>
+</g>
+<!-- W&#45;&gt;AP -->
+<g id="edge9" class="edge">
+<title>W-&gt;AP</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M363.07,-44.12C373.92,-40.94 385.84,-37.45 397.33,-34.09"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="362.53,-41.72 356.5,-46.04 363.91,-46.43 362.53,-41.72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="397.97,-36.46 404,-32.14 396.59,-31.75 397.97,-36.46"/>
+</g>
+<!-- IA -->
+<g id="node8" class="node">
+<title>IA</title>
+<path fill="#e9c46a" stroke="black" stroke-width="0" d="M774.77,-135.4C774.77,-135.4 715.4,-135.4 715.4,-135.4 709.4,-135.4 703.4,-129.4 703.4,-123.4 703.4,-123.4 703.4,-110.6 703.4,-110.6 703.4,-104.6 709.4,-98.6 715.4,-98.6 715.4,-98.6 774.77,-98.6 774.77,-98.6 780.77,-98.6 786.77,-104.6 786.77,-110.6 786.77,-110.6 786.77,-123.4 786.77,-123.4 786.77,-129.4 780.77,-135.4 774.77,-135.4"/>
+<text xml:space="preserve" text-anchor="middle" x="745.08" y="-120.6" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#3a2a00">IA de alertas</text>
+<text xml:space="preserve" text-anchor="middle" x="745.08" y="-106.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#3a2a00">e lembretes</text>
+</g>
+<!-- W&#45;&gt;IA -->
+<g id="edge8" class="edge">
+<title>W-&gt;IA</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M363.29,-61.9C441.35,-73.2 611.5,-97.82 695.37,-109.95"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="363.79,-59.5 356.51,-60.92 363.09,-64.35 363.79,-59.5"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="694.77,-112.34 702.05,-110.92 695.47,-107.49 694.77,-112.34"/>
+</g>
+<!-- AP&#45;&gt;CT -->
+<g id="edge11" class="edge">
+<title>AP-&gt;CT</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M482.18,-41.16C508.37,-62.9 547.34,-95.26 573.48,-116.96"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="483.89,-39.39 476.94,-36.8 480.76,-43.16 483.89,-39.39"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="571.6,-118.59 578.55,-121.18 574.73,-114.82 571.6,-118.59"/>
+</g>
+<!-- AP&#45;&gt;IA -->
+<g id="edge10" class="edge">
+<title>AP-&gt;IA</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M509.56,-17.87C554.07,-19.71 617.27,-26.79 667.4,-50 688.88,-59.94 708.86,-77.81 723.04,-92.59"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="509.66,-15.43 502.58,-17.63 509.49,-20.32 509.66,-15.43"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="721.05,-94.05 727.62,-97.49 724.63,-90.7 721.05,-94.05"/>
+</g>
+<!-- F -->
+<g id="node9" class="node">
+<title>F</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M915.4,-158C915.4,-158 834.77,-158 834.77,-158 828.77,-158 822.77,-152 822.77,-146 822.77,-146 822.77,-134 822.77,-134 822.77,-128 828.77,-122 834.77,-122 834.77,-122 915.4,-122 915.4,-122 921.4,-122 927.4,-128 927.4,-134 927.4,-134 927.4,-146 927.4,-146 927.4,-152 921.4,-158 915.4,-158"/>
+<text xml:space="preserve" text-anchor="middle" x="875.09" y="-136.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Farmácia parceira</text>
+</g>
+<!-- AP&#45;&gt;F -->
+<g id="edge12" class="edge">
+<title>AP-&gt;F</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M509.46,-9.25C553.13,-4.27 615.25,-1.56 667.4,-16 738.2,-35.61 809.11,-86.65 846.67,-116.78"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="509.29,-6.8 502.63,-10.07 509.87,-11.67 509.29,-6.8"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="845.01,-118.59 851.99,-121.1 848.1,-114.79 845.01,-118.59"/>
+</g>
+<!-- AC&#45;&gt;M -->
+<g id="edge15" class="edge">
+<title>AC-&gt;M</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M363.67,-214.89C378.91,-223 396.18,-232.18 411.41,-240.27"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="365.05,-212.85 357.72,-211.73 362.75,-217.18 365.05,-212.85"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="409.89,-242.24 417.22,-243.36 412.19,-237.91 409.89,-242.24"/>
+</g>
+<!-- AC&#45;&gt;CT -->
+<g id="edge14" class="edge">
+<title>AC-&gt;CT</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M377.78,-182.49C421.05,-174.26 481.57,-162.75 528.72,-153.79"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="377.51,-180.04 371.09,-183.76 378.42,-184.86 377.51,-180.04"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="529,-156.23 535.42,-152.51 528.09,-151.41 529,-156.23"/>
+</g>
+<!-- AC&#45;&gt;IA -->
+<g id="edge13" class="edge">
+<title>AC-&gt;IA</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M378.12,-197.38C447.8,-200.95 569.87,-200.83 667.4,-167 684.66,-161.01 701.88,-150.32 715.62,-140.35"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="378.26,-194.93 371.14,-196.99 377.99,-199.82 378.26,-194.93"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="716.99,-142.39 721.14,-136.24 714.06,-138.46 716.99,-142.39"/>
+</g>
+<!-- M&#45;&gt;CT -->
+<g id="edge17" class="edge">
+<title>M-&gt;CT</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M482.18,-238.84C508.37,-217.1 547.34,-184.74 573.48,-163.04"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="480.76,-236.84 476.94,-243.2 483.89,-240.61 480.76,-236.84"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="574.73,-165.18 578.55,-158.82 571.6,-161.41 574.73,-165.18"/>
+</g>
+<!-- M&#45;&gt;IA -->
+<g id="edge16" class="edge">
+<title>M-&gt;IA</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M503.46,-265.39C549.31,-266.2 617.87,-261.17 667.4,-230 699.95,-209.51 722.04,-169.62 733.85,-143.13"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="503.62,-262.95 496.56,-265.21 503.49,-267.84 503.62,-262.95"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="736.02,-144.31 736.53,-136.91 731.51,-142.37 736.02,-144.31"/>
+</g>
+<!-- M&#45;&gt;F -->
+<g id="edge18" class="edge">
+<title>M-&gt;F</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M503.27,-268.88C547.1,-273.37 612.7,-275.97 667.4,-261 737.43,-241.83 808.1,-192.51 845.94,-163.09"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="503.68,-266.46 496.46,-268.14 503.15,-271.33 503.68,-266.46"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="847.32,-165.12 851.31,-158.87 844.29,-161.27 847.32,-165.12"/>
+</g>
+<!-- CT&#45;&gt;IA -->
+<g id="edge19" class="edge">
+<title>CT-&gt;IA</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M675.49,-128.2C682.1,-127.12 688.68,-126.05 695.01,-125.01"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="675.22,-125.76 668.7,-129.31 676.01,-130.6 675.22,-125.76"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="695.3,-127.45 701.82,-123.9 694.51,-122.61 695.3,-127.45"/>
+</g>
+<!-- CT&#45;&gt;F -->
+<g id="edge20" class="edge">
+<title>CT-&gt;F</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M675.82,-143.24C685.1,-143.55 694.47,-143.82 703.4,-144 740.44,-144.74 749.72,-144.85 786.77,-144 795.71,-143.8 805.17,-143.47 814.42,-143.1"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="676.09,-140.8 669,-143 675.91,-145.7 676.09,-140.8"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="814.3,-145.56 821.19,-142.81 814.09,-140.66 814.3,-145.56"/>
+</g>
+<!-- IA&#45;&gt;F -->
+<g id="edge21" class="edge">
+<title>IA-&gt;F</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.1" d="M794.89,-125.77C801.37,-126.93 808.07,-128.14 814.7,-129.33"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="795.55,-123.4 788.22,-124.57 794.68,-128.22 795.55,-123.4"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.1" points="814.07,-131.71 821.4,-130.53 814.94,-126.88 814.07,-131.71"/>
+</g>
+</g>
+</svg>
