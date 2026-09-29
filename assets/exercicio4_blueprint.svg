@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="738pt" height="602pt" viewBox="0.00 0.00 738.00 602.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 598.4)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-598.4 734,-598.4 734,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_fs</title>
+<polygon fill="#eaf4ff" stroke="black" points="8,-185.6 8,-262.4 722,-262.4 722,-185.6 8,-185.6"/>
+<text xml:space="preserve" text-anchor="middle" x="365" y="-245.8" font-family="Times,serif" font-size="14.00" fill="#1a2a4a">FRONTSTAGE — visível ao paciente/cuidador</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_bs</title>
+<polygon fill="#f0eaf9" stroke="black" points="47,-100.8 47,-177.6 672,-177.6 672,-100.8 47,-100.8"/>
+<text xml:space="preserve" text-anchor="middle" x="359.5" y="-161" font-family="Times,serif" font-size="14.00" fill="#2a1a4a">BACKSTAGE — invisível</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_sp</title>
+<polygon fill="#eafaf1" stroke="black" points="70,-8 70,-92.8 654,-92.8 654,-8 70,-8"/>
+<text xml:space="preserve" text-anchor="middle" x="362" y="-76.2" font-family="Times,serif" font-size="14.00" fill="#0d3a1a">PROCESSOS DE SUPORTE</text>
+</g>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M552.65,-594.4C552.65,-594.4 501.35,-594.4 501.35,-594.4 495.35,-594.4 489.35,-588.4 489.35,-582.4 489.35,-582.4 489.35,-570.4 489.35,-570.4 489.35,-564.4 495.35,-558.4 501.35,-558.4 501.35,-558.4 552.65,-558.4 552.65,-558.4 558.65,-558.4 564.65,-564.4 564.65,-570.4 564.65,-570.4 564.65,-582.4 564.65,-582.4 564.65,-588.4 558.65,-594.4 552.65,-594.4"/>
+<text xml:space="preserve" text-anchor="middle" x="527" y="-579.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">1. Detecção</text>
+<text xml:space="preserve" text-anchor="middle" x="527" y="-566.5" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">da queda</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M518.51,-522.4C518.51,-522.4 471.49,-522.4 471.49,-522.4 465.49,-522.4 459.49,-516.4 459.49,-510.4 459.49,-510.4 459.49,-498.4 459.49,-498.4 459.49,-492.4 465.49,-486.4 471.49,-486.4 471.49,-486.4 518.51,-486.4 518.51,-486.4 524.51,-486.4 530.51,-492.4 530.51,-498.4 530.51,-498.4 530.51,-510.4 530.51,-510.4 530.51,-516.4 524.51,-522.4 518.51,-522.4"/>
+<text xml:space="preserve" text-anchor="middle" x="495" y="-507.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">2. Geração</text>
+<text xml:space="preserve" text-anchor="middle" x="495" y="-494.5" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">do alerta</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M519.25,-558.45C515.36,-549.94 510.57,-539.47 506.28,-530.08"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="508.57,-529.19 503.43,-523.84 504.11,-531.23 508.57,-529.19"/>
+</g>
+<!-- A1 -->
+<g id="node6" class="node">
+<title>A1</title>
+<path fill="#cfe6ff" stroke="black" stroke-width="0" d="M701.86,-229.6C701.86,-229.6 588.14,-229.6 588.14,-229.6 582.14,-229.6 576.14,-223.6 576.14,-217.6 576.14,-217.6 576.14,-205.6 576.14,-205.6 576.14,-199.6 582.14,-193.6 588.14,-193.6 588.14,-193.6 701.86,-193.6 701.86,-193.6 707.86,-193.6 713.86,-199.6 713.86,-205.6 713.86,-205.6 713.86,-217.6 713.86,-217.6 713.86,-223.6 707.86,-229.6 701.86,-229.6"/>
+<text xml:space="preserve" text-anchor="middle" x="645" y="-214.6" font-family="Helvetica,sans-Serif" font-size="10.00">Wearable capta movimento</text>
+<text xml:space="preserve" text-anchor="middle" x="645" y="-202.6" font-family="Helvetica,sans-Serif" font-size="10.00">IA analisa sinais vitais</text>
+</g>
+<!-- A&#45;&gt;A1 -->
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M387.29,-450.4C387.29,-450.4 342.71,-450.4 342.71,-450.4 336.71,-450.4 330.71,-444.4 330.71,-438.4 330.71,-438.4 330.71,-426.4 330.71,-426.4 330.71,-420.4 336.71,-414.4 342.71,-414.4 342.71,-414.4 387.29,-414.4 387.29,-414.4 393.29,-414.4 399.29,-420.4 399.29,-426.4 399.29,-426.4 399.29,-438.4 399.29,-438.4 399.29,-444.4 393.29,-450.4 387.29,-450.4"/>
+<text xml:space="preserve" text-anchor="middle" x="365" y="-435.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">3. Triagem</text>
+<text xml:space="preserve" text-anchor="middle" x="365" y="-422.5" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">da central</text>
+</g>
+<!-- B&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>B-&gt;C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M463.53,-486.45C445.57,-476.78 422.9,-464.58 403.83,-454.31"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="405.1,-452.21 397.78,-451.05 402.78,-456.53 405.1,-452.21"/>
+</g>
+<!-- B1 -->
+<g id="node7" class="node">
+<title>B1</title>
+<path fill="#cfe6ff" stroke="black" stroke-width="0" d="M546.59,-229.6C546.59,-229.6 443.41,-229.6 443.41,-229.6 437.41,-229.6 431.41,-223.6 431.41,-217.6 431.41,-217.6 431.41,-205.6 431.41,-205.6 431.41,-199.6 437.41,-193.6 443.41,-193.6 443.41,-193.6 546.59,-193.6 546.59,-193.6 552.59,-193.6 558.59,-199.6 558.59,-205.6 558.59,-205.6 558.59,-217.6 558.59,-217.6 558.59,-223.6 552.59,-229.6 546.59,-229.6"/>
+<text xml:space="preserve" text-anchor="middle" x="495" y="-214.6" font-family="Helvetica,sans-Serif" font-size="10.00">Push/SMS para cuidador</text>
+<text xml:space="preserve" text-anchor="middle" x="495" y="-202.6" font-family="Helvetica,sans-Serif" font-size="10.00">Tela do aplicativo</text>
+</g>
+<!-- B&#45;&gt;B1 -->
+<!-- D -->
+<g id="node4" class="node">
+<title>D</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M273.03,-378.4C273.03,-378.4 192.97,-378.4 192.97,-378.4 186.97,-378.4 180.97,-372.4 180.97,-366.4 180.97,-366.4 180.97,-354.4 180.97,-354.4 180.97,-348.4 186.97,-342.4 192.97,-342.4 192.97,-342.4 273.03,-342.4 273.03,-342.4 279.03,-342.4 285.03,-348.4 285.03,-354.4 285.03,-354.4 285.03,-366.4 285.03,-366.4 285.03,-372.4 279.03,-378.4 273.03,-378.4"/>
+<text xml:space="preserve" text-anchor="middle" x="233" y="-357.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">4. Escalonamento</text>
+</g>
+<!-- C&#45;&gt;D -->
+<g id="edge3" class="edge">
+<title>C-&gt;D</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M333.05,-414.45C314.81,-404.78 291.79,-392.58 272.43,-382.31"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="273.6,-380.16 266.26,-379.04 271.3,-384.48 273.6,-380.16"/>
+</g>
+<!-- C1 -->
+<g id="node8" class="node">
+<title>C1</title>
+<path fill="#cfe6ff" stroke="black" stroke-width="0" d="M401.85,-229.6C401.85,-229.6 328.15,-229.6 328.15,-229.6 322.15,-229.6 316.15,-223.6 316.15,-217.6 316.15,-217.6 316.15,-205.6 316.15,-205.6 316.15,-199.6 322.15,-193.6 328.15,-193.6 328.15,-193.6 401.85,-193.6 401.85,-193.6 407.85,-193.6 413.85,-199.6 413.85,-205.6 413.85,-205.6 413.85,-217.6 413.85,-217.6 413.85,-223.6 407.85,-229.6 401.85,-229.6"/>
+<text xml:space="preserve" text-anchor="middle" x="365" y="-214.6" font-family="Helvetica,sans-Serif" font-size="10.00">Cuidador vê alerta</text>
+<text xml:space="preserve" text-anchor="middle" x="365" y="-202.6" font-family="Helvetica,sans-Serif" font-size="10.00">Status inicial</text>
+</g>
+<!-- C&#45;&gt;C1 -->
+<!-- E -->
+<g id="node5" class="node">
+<title>E</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M156.66,-306.4C156.66,-306.4 83.34,-306.4 83.34,-306.4 77.34,-306.4 71.34,-300.4 71.34,-294.4 71.34,-294.4 71.34,-282.4 71.34,-282.4 71.34,-276.4 77.34,-270.4 83.34,-270.4 83.34,-270.4 156.66,-270.4 156.66,-270.4 162.66,-270.4 168.66,-276.4 168.66,-282.4 168.66,-282.4 168.66,-294.4 168.66,-294.4 168.66,-300.4 162.66,-306.4 156.66,-306.4"/>
+<text xml:space="preserve" text-anchor="middle" x="120" y="-285.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">5. Encerramento</text>
+</g>
+<!-- D&#45;&gt;E -->
+<g id="edge4" class="edge">
+<title>D-&gt;E</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M205.65,-342.45C190.24,-332.91 170.85,-320.9 154.42,-310.72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="155.89,-308.75 148.65,-307.15 153.31,-312.91 155.89,-308.75"/>
+</g>
+<!-- D1 -->
+<g id="node9" class="node">
+<title>D1</title>
+<path fill="#cfe6ff" stroke="black" stroke-width="0" d="M286.26,-229.6C286.26,-229.6 179.74,-229.6 179.74,-229.6 173.74,-229.6 167.74,-223.6 167.74,-217.6 167.74,-217.6 167.74,-205.6 167.74,-205.6 167.74,-199.6 173.74,-193.6 179.74,-193.6 179.74,-193.6 286.26,-193.6 286.26,-193.6 292.26,-193.6 298.26,-199.6 298.26,-205.6 298.26,-205.6 298.26,-217.6 298.26,-217.6 298.26,-223.6 292.26,-229.6 286.26,-229.6"/>
+<text xml:space="preserve" text-anchor="middle" x="233" y="-214.6" font-family="Helvetica,sans-Serif" font-size="10.00">Cuidador/paciente recebe</text>
+<text xml:space="preserve" text-anchor="middle" x="233" y="-202.6" font-family="Helvetica,sans-Serif" font-size="10.00">ligação ou orientação</text>
+</g>
+<!-- D&#45;&gt;D1 -->
+<!-- E1 -->
+<g id="node10" class="node">
+<title>E1</title>
+<path fill="#cfe6ff" stroke="black" stroke-width="0" d="M137.92,-229.6C137.92,-229.6 28.08,-229.6 28.08,-229.6 22.08,-229.6 16.08,-223.6 16.08,-217.6 16.08,-217.6 16.08,-205.6 16.08,-205.6 16.08,-199.6 22.08,-193.6 28.08,-193.6 28.08,-193.6 137.92,-193.6 137.92,-193.6 143.92,-193.6 149.92,-199.6 149.92,-205.6 149.92,-205.6 149.92,-217.6 149.92,-217.6 149.92,-223.6 143.92,-229.6 137.92,-229.6"/>
+<text xml:space="preserve" text-anchor="middle" x="83" y="-214.6" font-family="Helvetica,sans-Serif" font-size="10.00">Confirmação da resolução</text>
+<text xml:space="preserve" text-anchor="middle" x="83" y="-202.6" font-family="Helvetica,sans-Serif" font-size="10.00">Orientações finais</text>
+</g>
+<!-- E&#45;&gt;E1 -->
+<!-- A2 -->
+<g id="node11" class="node">
+<title>A2</title>
+<path fill="#e0d0f5" stroke="black" stroke-width="0" d="M652.4,-144.8C652.4,-144.8 587.6,-144.8 587.6,-144.8 581.6,-144.8 575.6,-138.8 575.6,-132.8 575.6,-132.8 575.6,-120.8 575.6,-120.8 575.6,-114.8 581.6,-108.8 587.6,-108.8 587.6,-108.8 652.4,-108.8 652.4,-108.8 658.4,-108.8 664.4,-114.8 664.4,-120.8 664.4,-120.8 664.4,-132.8 664.4,-132.8 664.4,-138.8 658.4,-144.8 652.4,-144.8"/>
+<text xml:space="preserve" text-anchor="middle" x="620" y="-129.8" font-family="Helvetica,sans-Serif" font-size="10.00">IA analisa sinais</text>
+<text xml:space="preserve" text-anchor="middle" x="620" y="-117.8" font-family="Helvetica,sans-Serif" font-size="10.00">e classifica risco</text>
+</g>
+<!-- A1&#45;&gt;A2 -->
+<!-- B2 -->
+<g id="node12" class="node">
+<title>B2</title>
+<path fill="#e0d0f5" stroke="black" stroke-width="0" d="M545.69,-144.8C545.69,-144.8 460.31,-144.8 460.31,-144.8 454.31,-144.8 448.31,-138.8 448.31,-132.8 448.31,-132.8 448.31,-120.8 448.31,-120.8 448.31,-114.8 454.31,-108.8 460.31,-108.8 460.31,-108.8 545.69,-108.8 545.69,-108.8 551.69,-108.8 557.69,-114.8 557.69,-120.8 557.69,-120.8 557.69,-132.8 557.69,-132.8 557.69,-138.8 551.69,-144.8 545.69,-144.8"/>
+<text xml:space="preserve" text-anchor="middle" x="503" y="-129.8" font-family="Helvetica,sans-Serif" font-size="10.00">Central recebe alerta</text>
+<text xml:space="preserve" text-anchor="middle" x="503" y="-117.8" font-family="Helvetica,sans-Serif" font-size="10.00">pré-classificado</text>
+</g>
+<!-- B1&#45;&gt;B2 -->
+<!-- C2 -->
+<g id="node13" class="node">
+<title>C2</title>
+<path fill="#e0d0f5" stroke="black" stroke-width="0" d="M418.53,-144.8C418.53,-144.8 311.47,-144.8 311.47,-144.8 305.47,-144.8 299.47,-138.8 299.47,-132.8 299.47,-132.8 299.47,-120.8 299.47,-120.8 299.47,-114.8 305.47,-108.8 311.47,-108.8 311.47,-108.8 418.53,-108.8 418.53,-108.8 424.53,-108.8 430.53,-114.8 430.53,-120.8 430.53,-120.8 430.53,-132.8 430.53,-132.8 430.53,-138.8 424.53,-144.8 418.53,-144.8"/>
+<text xml:space="preserve" text-anchor="middle" x="365" y="-129.8" font-family="Helvetica,sans-Serif" font-size="10.00">Atendente valida dados</text>
+<text xml:space="preserve" text-anchor="middle" x="365" y="-117.8" font-family="Helvetica,sans-Serif" font-size="10.00">Liga e confirma gravidade</text>
+</g>
+<!-- C1&#45;&gt;C2 -->
+<!-- D2 -->
+<g id="node14" class="node">
+<title>D2</title>
+<path fill="#e0d0f5" stroke="black" stroke-width="0" d="M269.02,-144.8C269.02,-144.8 176.98,-144.8 176.98,-144.8 170.98,-144.8 164.98,-138.8 164.98,-132.8 164.98,-132.8 164.98,-120.8 164.98,-120.8 164.98,-114.8 170.98,-108.8 176.98,-108.8 176.98,-108.8 269.02,-108.8 269.02,-108.8 275.02,-108.8 281.02,-114.8 281.02,-120.8 281.02,-120.8 281.02,-132.8 281.02,-132.8 281.02,-138.8 275.02,-144.8 269.02,-144.8"/>
+<text xml:space="preserve" text-anchor="middle" x="223" y="-129.8" font-family="Helvetica,sans-Serif" font-size="10.00">Aciona SAMU, médico</text>
+<text xml:space="preserve" text-anchor="middle" x="223" y="-117.8" font-family="Helvetica,sans-Serif" font-size="10.00">ou equipe interna</text>
+</g>
+<!-- D1&#45;&gt;D2 -->
+<!-- E2 -->
+<g id="node15" class="node">
+<title>E2</title>
+<path fill="#e0d0f5" stroke="black" stroke-width="0" d="M134.52,-144.8C134.52,-144.8 67.48,-144.8 67.48,-144.8 61.48,-144.8 55.48,-138.8 55.48,-132.8 55.48,-132.8 55.48,-120.8 55.48,-120.8 55.48,-114.8 61.48,-108.8 67.48,-108.8 67.48,-108.8 134.52,-108.8 134.52,-108.8 140.52,-108.8 146.52,-114.8 146.52,-120.8 146.52,-120.8 146.52,-132.8 146.52,-132.8 146.52,-138.8 140.52,-144.8 134.52,-144.8"/>
+<text xml:space="preserve" text-anchor="middle" x="101" y="-129.8" font-family="Helvetica,sans-Serif" font-size="10.00">Registro do caso</text>
+<text xml:space="preserve" text-anchor="middle" x="101" y="-117.8" font-family="Helvetica,sans-Serif" font-size="10.00">Auditoria</text>
+</g>
+<!-- E1&#45;&gt;E2 -->
+<!-- A3 -->
+<g id="node16" class="node">
+<title>A3</title>
+<path fill="#c8f0d8" stroke="black" stroke-width="0" d="M634.01,-60C634.01,-60 571.99,-60 571.99,-60 565.99,-60 559.99,-54 559.99,-48 559.99,-48 559.99,-28 559.99,-28 559.99,-22 565.99,-16 571.99,-16 571.99,-16 634.01,-16 634.01,-16 640.01,-16 646.01,-22 646.01,-28 646.01,-28 646.01,-48 646.01,-48 646.01,-54 640.01,-60 634.01,-60"/>
+<text xml:space="preserve" text-anchor="middle" x="603" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00">Modelo de IA</text>
+<text xml:space="preserve" text-anchor="middle" x="603" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">Regras de risco</text>
+<text xml:space="preserve" text-anchor="middle" x="603" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00">Histórico</text>
+</g>
+<!-- A2&#45;&gt;A3 -->
+<!-- B3 -->
+<g id="node17" class="node">
+<title>B3</title>
+<path fill="#c8f0d8" stroke="black" stroke-width="0" d="M530.4,-60C530.4,-60 475.6,-60 475.6,-60 469.6,-60 463.6,-54 463.6,-48 463.6,-48 463.6,-28 463.6,-28 463.6,-22 469.6,-16 475.6,-16 475.6,-16 530.4,-16 530.4,-16 536.4,-16 542.4,-22 542.4,-28 542.4,-28 542.4,-48 542.4,-48 542.4,-54 536.4,-60 530.4,-60"/>
+<text xml:space="preserve" text-anchor="middle" x="503" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00">Fila de alertas</text>
+<text xml:space="preserve" text-anchor="middle" x="503" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">SLA</text>
+<text xml:space="preserve" text-anchor="middle" x="503" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00">Classificação</text>
+</g>
+<!-- B2&#45;&gt;B3 -->
+<!-- C3 -->
+<g id="node18" class="node">
+<title>C3</title>
+<path fill="#c8f0d8" stroke="black" stroke-width="0" d="M433.37,-60C433.37,-60 314.63,-60 314.63,-60 308.63,-60 302.63,-54 302.63,-48 302.63,-48 302.63,-28 302.63,-28 302.63,-22 308.63,-16 314.63,-16 314.63,-16 433.37,-16 433.37,-16 439.37,-16 445.37,-22 445.37,-28 445.37,-28 445.37,-48 445.37,-48 445.37,-54 439.37,-60 433.37,-60"/>
+<text xml:space="preserve" text-anchor="middle" x="374" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00">Protocolo de escalonamento</text>
+<text xml:space="preserve" text-anchor="middle" x="374" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">Scripts</text>
+<text xml:space="preserve" text-anchor="middle" x="374" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00">Integração telefônica</text>
+</g>
+<!-- C2&#45;&gt;C3 -->
+<!-- D3 -->
+<g id="node19" class="node">
+<title>D3</title>
+<path fill="#c8f0d8" stroke="black" stroke-width="0" d="M272.59,-60C272.59,-60 169.41,-60 169.41,-60 163.41,-60 157.41,-54 157.41,-48 157.41,-48 157.41,-28 157.41,-28 157.41,-22 163.41,-16 169.41,-16 169.41,-16 272.59,-16 272.59,-16 278.59,-16 284.59,-22 284.59,-28 284.59,-28 284.59,-48 284.59,-48 284.59,-54 278.59,-60 272.59,-60"/>
+<text xml:space="preserve" text-anchor="middle" x="221" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00">Protocolo de emergência</text>
+<text xml:space="preserve" text-anchor="middle" x="221" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">Contatos</text>
+<text xml:space="preserve" text-anchor="middle" x="221" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00">Prontuário</text>
+</g>
+<!-- D2&#45;&gt;D3 -->
+<!-- E3 -->
+<g id="node20" class="node">
+<title>E3</title>
+<path fill="#c8f0d8" stroke="black" stroke-width="0" d="M127.51,-60C127.51,-60 90.49,-60 90.49,-60 84.49,-60 78.49,-54 78.49,-48 78.49,-48 78.49,-28 78.49,-28 78.49,-22 84.49,-16 90.49,-16 90.49,-16 127.51,-16 127.51,-16 133.51,-16 139.51,-22 139.51,-28 139.51,-28 139.51,-48 139.51,-48 139.51,-54 133.51,-60 127.51,-60"/>
+<text xml:space="preserve" text-anchor="middle" x="109" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00">Logs</text>
+<text xml:space="preserve" text-anchor="middle" x="109" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">Relatórios</text>
+<text xml:space="preserve" text-anchor="middle" x="109" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00">QA</text>
+</g>
+<!-- E2&#45;&gt;E3 -->
+</g>
+</svg>
