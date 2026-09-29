@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="545pt" height="638pt" viewBox="0.00 0.00 545.00 638.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 634)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-634 541.02,-634 541.02,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M146.4,-343.8C146.4,-343.8 12,-343.8 12,-343.8 6,-343.8 0,-337.8 0,-331.8 0,-331.8 0,-298.2 0,-298.2 0,-292.2 6,-286.2 12,-286.2 12,-286.2 146.4,-286.2 146.4,-286.2 152.4,-286.2 158.4,-292.2 158.4,-298.2 158.4,-298.2 158.4,-331.8 158.4,-331.8 158.4,-337.8 152.4,-343.8 146.4,-343.8"/>
+<text xml:space="preserve" text-anchor="middle" x="79.2" y="-311.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">ESCOPO DO CICLO</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M346.3,-468C346.3,-468 211.9,-468 211.9,-468 205.9,-468 199.9,-462 199.9,-456 199.9,-456 199.9,-444 199.9,-444 199.9,-438 205.9,-432 211.9,-432 211.9,-432 346.3,-432 346.3,-432 352.3,-432 358.3,-438 358.3,-444 358.3,-444 358.3,-456 358.3,-456 358.3,-462 352.3,-468 346.3,-468"/>
+<text xml:space="preserve" text-anchor="middle" x="279.1" y="-446.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">ENTRA NESTE CICLO</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M122.17,-343.63C158.82,-368.63 211.29,-404.43 245.04,-427.44"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="243.28,-429.21 250.44,-431.13 246.04,-425.16 243.28,-429.21"/>
+</g>
+<!-- C -->
+<g id="node9" class="node">
+<title>C</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M351.81,-198C351.81,-198 206.4,-198 206.4,-198 200.4,-198 194.4,-192 194.4,-186 194.4,-186 194.4,-174 194.4,-174 194.4,-168 200.4,-162 206.4,-162 206.4,-162 351.81,-162 351.81,-162 357.81,-162 363.81,-168 363.81,-174 363.81,-174 363.81,-186 363.81,-186 363.81,-192 357.81,-198 351.81,-198"/>
+<text xml:space="preserve" text-anchor="middle" x="279.1" y="-176.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">FICA DE FORA DESTE CICLO</text>
+</g>
+<!-- A&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>A-&gt;C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M122.17,-286.37C158.82,-261.37 211.29,-225.57 245.04,-202.56"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="246.04,-204.84 250.44,-198.87 243.28,-200.79 246.04,-204.84"/>
+</g>
+<!-- B1 -->
+<g id="node3" class="node">
+<title>B1</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M525.02,-630C525.02,-630 411.81,-630 411.81,-630 405.81,-630 399.81,-624 399.81,-618 399.81,-618 399.81,-606 399.81,-606 399.81,-600 405.81,-594 411.81,-594 411.81,-594 525.02,-594 525.02,-594 531.02,-594 537.02,-600 537.02,-606 537.02,-606 537.02,-618 537.02,-618 537.02,-624 531.02,-630 525.02,-630"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-615" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Explicação do lembrete</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-603" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">inteligente e do papel da IA</text>
+</g>
+<!-- B&#45;&gt;B1 -->
+<g id="edge3" class="edge">
+<title>B-&gt;B1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M291.68,-467.7C311,-496.01 352.4,-551.68 399.81,-585 402.34,-586.78 405,-588.46 407.74,-590.05"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="406.25,-592.03 413.57,-593.19 408.57,-587.72 406.25,-592.03"/>
+</g>
+<!-- B2 -->
+<g id="node4" class="node">
+<title>B2</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M515.27,-576C515.27,-576 421.55,-576 421.55,-576 415.55,-576 409.55,-570 409.55,-564 409.55,-564 409.55,-552 409.55,-552 409.55,-546 415.55,-540 421.55,-540 421.55,-540 515.27,-540 515.27,-540 521.27,-540 527.27,-546 527.27,-552 527.27,-552 527.27,-564 527.27,-564 527.27,-570 521.27,-576 515.27,-576"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-561" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Configuração inicial de</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-549" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">horários e medicações</text>
+</g>
+<!-- B&#45;&gt;B2 -->
+<g id="edge4" class="edge">
+<title>B-&gt;B2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M303.01,-467.7C326.45,-485.26 364.34,-512.2 399.81,-531 403.39,-532.9 407.13,-534.74 410.94,-536.52"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="409.78,-538.68 417.17,-539.32 411.79,-534.22 409.78,-538.68"/>
+</g>
+<!-- B3 -->
+<g id="node5" class="node">
+<title>B3</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M518.05,-522C518.05,-522 418.78,-522 418.78,-522 412.78,-522 406.78,-516 406.78,-510 406.78,-510 406.78,-498 406.78,-498 406.78,-492 412.78,-486 418.78,-486 418.78,-486 518.05,-486 518.05,-486 524.05,-486 530.05,-492 530.05,-498 530.05,-498 530.05,-510 530.05,-510 530.05,-516 524.05,-522 518.05,-522"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-507" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Permissões do cuidador</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-495" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">e do paciente</text>
+</g>
+<!-- B&#45;&gt;B3 -->
+<g id="edge5" class="edge">
+<title>B-&gt;B3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M342.48,-467.98C360.47,-473.17 380.21,-478.86 398.57,-484.15"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="397.75,-486.47 405.16,-486.05 399.11,-481.76 397.75,-486.47"/>
+</g>
+<!-- B4 -->
+<g id="node6" class="node">
+<title>B4</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M517.22,-468C517.22,-468 419.6,-468 419.6,-468 413.6,-468 407.6,-462 407.6,-456 407.6,-456 407.6,-444 407.6,-444 407.6,-438 413.6,-432 419.6,-432 419.6,-432 517.22,-432 517.22,-432 523.22,-432 529.22,-438 529.22,-444 529.22,-444 529.22,-456 529.22,-456 529.22,-462 523.22,-468 517.22,-468"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-453" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Simulação de mudança</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-441" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">de horário pela IA</text>
+</g>
+<!-- B&#45;&gt;B4 -->
+<g id="edge6" class="edge">
+<title>B-&gt;B4</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M358.18,-450C371.77,-450 385.81,-450 399.11,-450"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="398.91,-452.45 405.91,-450 398.91,-447.55 398.91,-452.45"/>
+</g>
+<!-- B5 -->
+<g id="node7" class="node">
+<title>B5</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M510.54,-414C510.54,-414 426.28,-414 426.28,-414 420.28,-414 414.28,-408 414.28,-402 414.28,-402 414.28,-390 414.28,-390 414.28,-384 420.28,-378 426.28,-378 426.28,-378 510.54,-378 510.54,-378 516.54,-378 522.54,-384 522.54,-390 522.54,-390 522.54,-402 522.54,-402 522.54,-408 516.54,-414 510.54,-414"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Notificações, ajustes</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-387" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">e canal de ajuda</text>
+</g>
+<!-- B&#45;&gt;B5 -->
+<g id="edge7" class="edge">
+<title>B-&gt;B5</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M342.48,-432.02C362.96,-426.11 385.7,-419.56 406.1,-413.67"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="406.6,-416.08 412.65,-411.79 405.24,-411.37 406.6,-416.08"/>
+</g>
+<!-- B6 -->
+<g id="node8" class="node">
+<title>B6</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M522.22,-360C522.22,-360 414.6,-360 414.6,-360 408.6,-360 402.6,-354 402.6,-348 402.6,-348 402.6,-336 402.6,-336 402.6,-330 408.6,-324 414.6,-324 414.6,-324 522.22,-324 522.22,-324 528.22,-324 534.22,-330 534.22,-336 534.22,-336 534.22,-348 534.22,-348 534.22,-354 528.22,-360 522.22,-360"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-345" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Boas-vindas e construção</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">de confiança</text>
+</g>
+<!-- B&#45;&gt;B6 -->
+<g id="edge8" class="edge">
+<title>B-&gt;B6</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M303.01,-432.3C326.45,-414.74 364.34,-387.8 399.81,-369 403.39,-367.1 407.13,-365.26 410.94,-363.48"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="411.79,-365.78 417.17,-360.68 409.78,-361.32 411.79,-365.78"/>
+</g>
+<!-- C1 -->
+<g id="node10" class="node">
+<title>C1</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M494.42,-306C494.42,-306 442.41,-306 442.41,-306 436.41,-306 430.41,-300 430.41,-294 430.41,-294 430.41,-282 430.41,-282 430.41,-276 436.41,-270 442.41,-270 442.41,-270 494.42,-270 494.42,-270 500.42,-270 506.42,-276 506.42,-282 506.42,-282 506.42,-294 506.42,-294 506.42,-300 500.42,-306 494.42,-306"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Integração</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-279" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">com farmácia</text>
+</g>
+<!-- C&#45;&gt;C1 -->
+<g id="edge9" class="edge">
+<title>C-&gt;C1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M303.01,-197.7C326.45,-215.26 364.34,-242.2 399.81,-261 407.1,-264.86 415.06,-268.51 422.88,-271.8"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="421.54,-273.9 428.95,-274.28 423.39,-269.36 421.54,-273.9"/>
+</g>
+<!-- C2 -->
+<g id="node11" class="node">
+<title>C2</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M492.76,-252C492.76,-252 444.06,-252 444.06,-252 438.06,-252 432.06,-246 432.06,-240 432.06,-240 432.06,-228 432.06,-228 432.06,-222 438.06,-216 444.06,-216 444.06,-216 492.76,-216 492.76,-216 498.76,-216 504.76,-222 504.76,-228 504.76,-228 504.76,-240 504.76,-240 504.76,-246 498.76,-252 492.76,-252"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-237" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Teleconsulta</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">e wearable</text>
+</g>
+<!-- C&#45;&gt;C2 -->
+<g id="edge10" class="edge">
+<title>C-&gt;C2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M342.48,-197.98C369.23,-205.69 399.82,-214.51 424.04,-221.5"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="423.18,-223.8 430.58,-223.38 424.53,-219.09 423.18,-223.8"/>
+</g>
+<!-- C3 -->
+<g id="node12" class="node">
+<title>C3</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M491.37,-198C491.37,-198 445.45,-198 445.45,-198 439.45,-198 433.45,-192 433.45,-186 433.45,-186 433.45,-174 433.45,-174 433.45,-168 439.45,-162 445.45,-162 445.45,-162 491.37,-162 491.37,-162 497.37,-162 503.37,-168 503.37,-174 503.37,-174 503.37,-186 503.37,-186 503.37,-192 497.37,-198 491.37,-198"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Dashboards</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">avançados</text>
+</g>
+<!-- C&#45;&gt;C3 -->
+<g id="edge11" class="edge">
+<title>C-&gt;C3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M363.62,-180C384.92,-180 406.92,-180 425.16,-180"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="424.97,-182.45 431.97,-180 424.97,-177.55 424.97,-182.45"/>
+</g>
+<!-- C4 -->
+<g id="node13" class="node">
+<title>C4</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M506.93,-144C506.93,-144 429.89,-144 429.89,-144 423.89,-144 417.89,-138 417.89,-132 417.89,-132 417.89,-120 417.89,-120 417.89,-114 423.89,-108 429.89,-108 429.89,-108 506.93,-108 506.93,-108 512.93,-108 518.93,-114 518.93,-120 518.93,-120 518.93,-132 518.93,-132 518.93,-138 512.93,-144 506.93,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Múltiplos pacientes</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">por cuidador</text>
+</g>
+<!-- C&#45;&gt;C4 -->
+<g id="edge12" class="edge">
+<title>C-&gt;C4</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M342.48,-162.02C364.18,-155.76 388.41,-148.78 409.72,-142.63"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="410.24,-145.03 416.29,-140.74 408.89,-140.32 410.24,-145.03"/>
+</g>
+<!-- C5 -->
+<g id="node14" class="node">
+<title>C5</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M515.83,-90C515.83,-90 421,-90 421,-90 415,-90 409,-84 409,-78 409,-78 409,-66 409,-66 409,-60 415,-54 421,-54 421,-54 515.83,-54 515.83,-54 521.83,-54 527.83,-60 527.83,-66 527.83,-66 527.83,-78 527.83,-78 527.83,-84 521.83,-90 515.83,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Personalização clínica</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">por patologia</text>
+</g>
+<!-- C&#45;&gt;C5 -->
+<g id="edge13" class="edge">
+<title>C-&gt;C5</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M303.01,-162.3C326.45,-144.74 364.34,-117.8 399.81,-99 403.39,-97.1 407.13,-95.26 410.94,-93.48"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="411.79,-95.78 417.17,-90.68 409.78,-91.32 411.79,-95.78"/>
+</g>
+<!-- C6 -->
+<g id="node15" class="node">
+<title>C6</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M513.6,-36C513.6,-36 423.22,-36 423.22,-36 417.22,-36 411.22,-30 411.22,-24 411.22,-24 411.22,-12 411.22,-12 411.22,-6 417.22,0 423.22,0 423.22,0 513.6,0 513.6,0 519.6,0 525.6,-6 525.6,-12 525.6,-12 525.6,-24 525.6,-24 525.6,-30 519.6,-36 513.6,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Versão exclusiva para</text>
+<text xml:space="preserve" text-anchor="middle" x="468.41" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">paciente idoso</text>
+</g>
+<!-- C&#45;&gt;C6 -->
+<g id="edge14" class="edge">
+<title>C-&gt;C6</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M291.68,-162.3C311,-133.99 352.4,-78.32 399.81,-45 402.34,-43.22 405,-41.54 407.74,-39.95"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="408.57,-42.28 413.57,-36.81 406.25,-37.97 408.57,-42.28"/>
+</g>
+</g>
+</svg>

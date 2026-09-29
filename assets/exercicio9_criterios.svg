@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="574pt" height="238pt" viewBox="0.00 0.00 574.00 238.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 234.4)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-234.4 570.25,-234.4 570.25,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M407.5,-230.4C407.5,-230.4 215.5,-230.4 215.5,-230.4 209.5,-230.4 203.5,-224.4 203.5,-218.4 203.5,-218.4 203.5,-192 203.5,-192 203.5,-186 209.5,-180 215.5,-180 215.5,-180 407.5,-180 407.5,-180 413.5,-180 419.5,-186 419.5,-192 419.5,-192 419.5,-218.4 419.5,-218.4 419.5,-224.4 413.5,-230.4 407.5,-230.4"/>
+<text xml:space="preserve" text-anchor="middle" x="311.5" y="-201.3" font-family="Helvetica,sans-Serif" font-size="13.00" fill="white">CRITÉRIOS DE SUCESSO</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M184.7,-144C184.7,-144 122.3,-144 122.3,-144 116.3,-144 110.3,-138 110.3,-132 110.3,-132 110.3,-84 110.3,-84 110.3,-78 116.3,-72 122.3,-72 122.3,-72 184.7,-72 184.7,-72 190.7,-72 196.7,-78 196.7,-84 196.7,-84 196.7,-132 196.7,-132 196.7,-138 190.7,-144 184.7,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="153.5" y="-103.2" font-family="Helvetica,sans-Serif" font-size="16.00" fill="white">80%</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M271.63,-180.18C251.1,-167.8 225.84,-152.59 203.97,-139.41"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="205.5,-137.47 198.24,-135.96 202.97,-141.67 205.5,-137.47"/>
+</g>
+<!-- C -->
+<g id="node4" class="node">
+<title>C</title>
+<path fill="#f4a261" stroke="black" stroke-width="0" d="M342.7,-144C342.7,-144 280.3,-144 280.3,-144 274.3,-144 268.3,-138 268.3,-132 268.3,-132 268.3,-84 268.3,-84 268.3,-78 274.3,-72 280.3,-72 280.3,-72 342.7,-72 342.7,-72 348.7,-72 354.7,-78 354.7,-84 354.7,-84 354.7,-132 354.7,-132 354.7,-138 348.7,-144 342.7,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="311.5" y="-103.2" font-family="Helvetica,sans-Serif" font-size="16.00" fill="white">90%</text>
+</g>
+<!-- A&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>A-&gt;C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M311.5,-180.18C311.5,-171.74 311.5,-161.99 311.5,-152.45"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="313.95,-152.62 311.5,-145.62 309.05,-152.62 313.95,-152.62"/>
+</g>
+<!-- D -->
+<g id="node6" class="node">
+<title>D</title>
+<path fill="#6a4c93" stroke="black" stroke-width="0" d="M530.5,-144C530.5,-144 410.5,-144 410.5,-144 404.5,-144 398.5,-138 398.5,-132 398.5,-132 398.5,-84 398.5,-84 398.5,-78 404.5,-72 410.5,-72 410.5,-72 530.5,-72 530.5,-72 536.5,-72 542.5,-78 542.5,-84 542.5,-84 542.5,-132 542.5,-132 542.5,-138 536.5,-144 530.5,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="470.5" y="-118.8" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">SUS ≥ 80</text>
+<text xml:space="preserve" text-anchor="middle" x="470.5" y="-104.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">ou</text>
+<text xml:space="preserve" text-anchor="middle" x="470.5" y="-90" font-family="Helvetica,sans-Serif" font-size="12.00" fill="white">Confiança ≥ 4/5</text>
+</g>
+<!-- A&#45;&gt;D -->
+<g id="edge3" class="edge">
+<title>A-&gt;D</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M351.62,-180.18C367.78,-170.5 386.85,-159.08 404.93,-148.26"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="405.76,-150.62 410.51,-144.92 403.24,-146.42 405.76,-150.62"/>
+</g>
+<!-- B1 -->
+<g id="node3" class="node">
+<title>B1</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M185,-36C185,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 185,0 185,0 191,0 197,-6 197,-12 197,-12 197,-24 197,-24 197,-30 191,-36 185,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="98.5" y="-21.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="#0d3a34">Participantes concluem o onboarding</text>
+<text xml:space="preserve" text-anchor="middle" x="98.5" y="-8.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="#0d3a34">sem ajuda em até 5 minutos</text>
+</g>
+<!-- B&#45;&gt;B1 -->
+<g id="edge4" class="edge">
+<title>B-&gt;B1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M131.76,-72.22C125.72,-62.56 119.3,-52.28 113.72,-43.35"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="115.82,-42.09 110.03,-37.45 111.66,-44.68 115.82,-42.09"/>
+</g>
+<!-- C1 -->
+<g id="node5" class="node">
+<title>C1</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M396.46,-36C396.46,-36 226.54,-36 226.54,-36 220.54,-36 214.54,-30 214.54,-24 214.54,-24 214.54,-12 214.54,-12 214.54,-6 220.54,0 226.54,0 226.54,0 396.46,0 396.46,0 402.46,0 408.46,-6 408.46,-12 408.46,-12 408.46,-24 408.46,-24 408.46,-30 402.46,-36 396.46,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="311.5" y="-21.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="#4a2a10">Participantes explicam corretamente</text>
+<text xml:space="preserve" text-anchor="middle" x="311.5" y="-8.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="#4a2a10">por que o horário pode mudar</text>
+</g>
+<!-- C&#45;&gt;C1 -->
+<g id="edge5" class="edge">
+<title>C-&gt;C1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M311.5,-72.22C311.5,-63.05 311.5,-53.31 311.5,-44.71"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="313.95,-44.72 311.5,-37.72 309.05,-44.72 313.95,-44.72"/>
+</g>
+<!-- D1 -->
+<g id="node7" class="node">
+<title>D1</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M554.25,-36C554.25,-36 438.75,-36 438.75,-36 432.75,-36 426.75,-30 426.75,-24 426.75,-24 426.75,-12 426.75,-12 426.75,-6 432.75,0 438.75,0 438.75,0 554.25,0 554.25,0 560.25,0 566.25,-6 566.25,-12 566.25,-12 566.25,-24 566.25,-24 566.25,-30 560.25,-36 554.25,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="496.5" y="-14.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="#2a1a4a">Na primeira configuração</text>
+</g>
+<!-- D&#45;&gt;D1 -->
+<g id="edge6" class="edge">
+<title>D-&gt;D1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M480.78,-72.22C483.54,-62.85 486.48,-52.9 489.06,-44.17"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="491.36,-45.06 490.99,-37.65 486.66,-43.67 491.36,-45.06"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="940pt" height="152pt" viewBox="0.00 0.00 940.00 152.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 148)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-148 935.54,-148 935.54,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M76.75,-63C76.75,-63 12,-63 12,-63 6,-63 0,-57 0,-51 0,-51 0,-39 0,-39 0,-33 6,-27 12,-27 12,-27 76.75,-27 76.75,-27 82.75,-27 88.75,-33 88.75,-39 88.75,-39 88.75,-51 88.75,-51 88.75,-57 82.75,-63 76.75,-63"/>
+<text xml:space="preserve" text-anchor="middle" x="44.37" y="-48.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">EXPLORAÇÃO</text>
+<text xml:space="preserve" text-anchor="middle" x="44.37" y="-35.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">INICIAL</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<path fill="#f4a261" stroke="black" stroke-width="0" d="M235.71,-90C235.71,-90 136.75,-90 136.75,-90 130.75,-90 124.75,-84 124.75,-78 124.75,-78 124.75,-66 124.75,-66 124.75,-60 130.75,-54 136.75,-54 136.75,-54 235.71,-54 235.71,-54 241.71,-54 247.71,-60 247.71,-66 247.71,-66 247.71,-78 247.71,-78 247.71,-84 241.71,-90 235.71,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="186.23" y="-75.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">VALIDAÇÃO COM</text>
+<text xml:space="preserve" text-anchor="middle" x="186.23" y="-62.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">POUCOS USUÁRIOS</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M88.47,-53.32C97.26,-55.02 106.71,-56.84 116.15,-58.66"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="115.66,-61.07 123,-59.99 116.59,-56.25 115.66,-61.07"/>
+</g>
+<!-- A1 -->
+<g id="node4" class="node">
+<title>A1</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M217.53,-36C217.53,-36 154.92,-36 154.92,-36 148.92,-36 142.92,-30 142.92,-24 142.92,-24 142.92,-12 142.92,-12 142.92,-6 148.92,0 154.92,0 154.92,0 217.53,0 217.53,0 223.53,0 229.53,-6 229.53,-12 229.53,-12 229.53,-24 229.53,-24 229.53,-30 223.53,-36 217.53,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="186.23" y="-15" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Baixa fidelidade</text>
+</g>
+<!-- A&#45;&gt;A1 -->
+<g id="edge3" class="edge">
+<title>A-&gt;A1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M88.47,-36.68C103.1,-33.85 119.57,-30.67 134.73,-27.75"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="134.79,-30.23 141.2,-26.5 133.87,-25.42 134.79,-30.23"/>
+</g>
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M357.68,-144C357.68,-144 305.77,-144 305.77,-144 299.77,-144 293.77,-138 293.77,-132 293.77,-132 293.77,-120 293.77,-120 293.77,-114 299.77,-108 305.77,-108 305.77,-108 357.68,-108 357.68,-108 363.68,-108 369.68,-114 369.68,-120 369.68,-120 369.68,-132 369.68,-132 369.68,-138 363.68,-144 357.68,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="331.72" y="-129.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">VALIDAÇÃO</text>
+<text xml:space="preserve" text-anchor="middle" x="331.72" y="-116.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">FINAL</text>
+</g>
+<!-- B&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>B-&gt;C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M235.01,-89.98C251.39,-96.15 269.66,-103.02 285.81,-109.1"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="284.93,-111.38 292.34,-111.56 286.65,-106.8 284.93,-111.38"/>
+</g>
+<!-- B1 -->
+<g id="node7" class="node">
+<title>B1</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M364.13,-90C364.13,-90 299.31,-90 299.31,-90 293.31,-90 287.31,-84 287.31,-78 287.31,-78 287.31,-66 287.31,-66 287.31,-60 293.31,-54 299.31,-54 299.31,-54 364.13,-54 364.13,-54 370.13,-54 376.13,-60 376.13,-66 376.13,-66 376.13,-78 376.13,-78 376.13,-84 370.13,-90 364.13,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="331.72" y="-69" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Média fidelidade</text>
+</g>
+<!-- B&#45;&gt;B1 -->
+<g id="edge6" class="edge">
+<title>B-&gt;B1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M247.66,-72C257.97,-72 268.6,-72 278.67,-72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="278.53,-74.45 285.53,-72 278.53,-69.55 278.53,-74.45"/>
+</g>
+<!-- C1 -->
+<g id="node10" class="node">
+<title>C1</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M517.02,-144C517.02,-144 462.19,-144 462.19,-144 456.19,-144 450.19,-138 450.19,-132 450.19,-132 450.19,-120 450.19,-120 450.19,-114 456.19,-108 462.19,-108 462.19,-108 517.02,-108 517.02,-108 523.02,-108 529.02,-114 529.02,-120 529.02,-120 529.02,-132 529.02,-132 529.02,-138 523.02,-144 517.02,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="489.6" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Alta fidelidade</text>
+</g>
+<!-- C&#45;&gt;C1 -->
+<g id="edge9" class="edge">
+<title>C-&gt;C1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M369.66,-126C391.22,-126 418.62,-126 441.69,-126"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="441.48,-128.45 448.48,-126 441.48,-123.55 441.48,-128.45"/>
+</g>
+<!-- A2 -->
+<g id="node5" class="node">
+<title>A2</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M367.74,-36C367.74,-36 295.71,-36 295.71,-36 289.71,-36 283.71,-30 283.71,-24 283.71,-24 283.71,-12 283.71,-12 283.71,-6 289.71,0 295.71,0 295.71,0 367.74,0 367.74,0 373.74,0 379.74,-6 379.74,-12 379.74,-12 379.74,-24 379.74,-24 379.74,-30 373.74,-36 367.74,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="331.72" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Papel, wireframes</text>
+<text xml:space="preserve" text-anchor="middle" x="331.72" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Figma simples</text>
+</g>
+<!-- A1&#45;&gt;A2 -->
+<g id="edge4" class="edge">
+<title>A1-&gt;A2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M229.5,-18C243.74,-18 259.85,-18 274.96,-18"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="274.91,-20.45 281.91,-18 274.91,-15.55 274.91,-20.45"/>
+</g>
+<!-- A3 -->
+<g id="node6" class="node">
+<title>A3</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M551.47,-36C551.47,-36 427.74,-36 427.74,-36 421.74,-36 415.74,-30 415.74,-24 415.74,-24 415.74,-12 415.74,-12 415.74,-6 421.74,0 427.74,0 427.74,0 551.47,0 551.47,0 557.47,0 563.47,-6 563.47,-12 563.47,-12 563.47,-24 563.47,-24 563.47,-30 557.47,-36 551.47,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="489.6" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Testar conceitos,</text>
+<text xml:space="preserve" text-anchor="middle" x="489.6" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">terminologia e ordem do fluxo</text>
+</g>
+<!-- A2&#45;&gt;A3 -->
+<g id="edge5" class="edge">
+<title>A2-&gt;A3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M379.49,-18C388.28,-18 397.7,-18 407.19,-18"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="407.09,-20.45 414.09,-18 407.09,-15.55 407.09,-20.45"/>
+</g>
+<!-- B2 -->
+<g id="node8" class="node">
+<title>B2</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M523.4,-90C523.4,-90 455.81,-90 455.81,-90 449.81,-90 443.81,-84 443.81,-78 443.81,-78 443.81,-66 443.81,-66 443.81,-60 449.81,-54 455.81,-54 455.81,-54 523.4,-54 523.4,-54 529.4,-54 535.4,-60 535.4,-66 535.4,-66 535.4,-78 535.4,-78 535.4,-84 529.4,-90 523.4,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="489.6" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Protótipo clicável</text>
+<text xml:space="preserve" text-anchor="middle" x="489.6" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">no Figma</text>
+</g>
+<!-- B1&#45;&gt;B2 -->
+<g id="edge7" class="edge">
+<title>B1-&gt;B2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M375.73,-72C394.09,-72 415.72,-72 435.11,-72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="435.02,-74.45 442.02,-72 435.02,-69.55 435.02,-74.45"/>
+</g>
+<!-- B3 -->
+<g id="node9" class="node">
+<title>B3</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M722.44,-90C722.44,-90 611.47,-90 611.47,-90 605.47,-90 599.47,-84 599.47,-78 599.47,-78 599.47,-66 599.47,-66 599.47,-60 605.47,-54 611.47,-54 611.47,-54 722.44,-54 722.44,-54 728.44,-54 734.44,-60 734.44,-66 734.44,-66 734.44,-78 734.44,-78 734.44,-84 728.44,-90 722.44,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="666.96" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Validar compreensão,</text>
+<text xml:space="preserve" text-anchor="middle" x="666.96" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">navegação e clareza da IA</text>
+</g>
+<!-- B2&#45;&gt;B3 -->
+<g id="edge8" class="edge">
+<title>B2-&gt;B3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M535.31,-72C552.2,-72 571.92,-72 590.85,-72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="590.66,-74.45 597.66,-72 590.66,-69.55 590.66,-74.45"/>
+</g>
+<!-- C2 -->
+<g id="node11" class="node">
+<title>C2</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M711.31,-144C711.31,-144 622.6,-144 622.6,-144 616.6,-144 610.6,-138 610.6,-132 610.6,-132 610.6,-120 610.6,-120 610.6,-114 616.6,-108 622.6,-108 622.6,-108 711.31,-108 711.31,-108 717.31,-108 723.31,-114 723.31,-120 723.31,-120 723.31,-132 723.31,-132 723.31,-138 717.31,-144 711.31,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="666.96" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Protótipo interativo</text>
+<text xml:space="preserve" text-anchor="middle" x="666.96" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">com dados simulados</text>
+</g>
+<!-- C1&#45;&gt;C2 -->
+<g id="edge10" class="edge">
+<title>C1-&gt;C2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M528.65,-126C550.1,-126 577.45,-126 602.09,-126"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="601.86,-128.45 608.86,-126 601.86,-123.55 601.86,-128.45"/>
+</g>
+<!-- C3 -->
+<g id="node12" class="node">
+<title>C3</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M919.54,-144C919.54,-144 782.44,-144 782.44,-144 776.44,-144 770.44,-138 770.44,-132 770.44,-132 770.44,-120 770.44,-120 770.44,-114 776.44,-108 782.44,-108 782.44,-108 919.54,-108 919.54,-108 925.54,-108 931.54,-114 931.54,-120 931.54,-120 931.54,-132 931.54,-132 931.54,-138 925.54,-144 919.54,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="850.99" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Validar usabilidade, confiança,</text>
+<text xml:space="preserve" text-anchor="middle" x="850.99" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">acessibilidade e intenção de uso</text>
+</g>
+<!-- C2&#45;&gt;C3 -->
+<g id="edge11" class="edge">
+<title>C2-&gt;C3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M723.07,-126C735.34,-126 748.65,-126 761.88,-126"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="761.74,-128.45 768.74,-126 761.74,-123.55 761.74,-128.45"/>
+</g>
+</g>
+</svg>
