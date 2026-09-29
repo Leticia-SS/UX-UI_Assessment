@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vitalis Care — Onboarding do Cuidador</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #1e1230;
+      color: #ede9fe;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 40px;
+      border-bottom: 1px solid rgba(196, 181, 253, 0.15);
+    }
+
+    .logo {
+      font-weight: 700;
+      font-size: 18px;
+      color: #c4b5fd;
+      letter-spacing: 0.5px;
+    }
+
+    .logo span { color: #a78bfa; }
+
+    .tag {
+      font-size: 12px;
+      color: #a78bfa;
+      border: 1px solid #7c3aed;
+      padding: 6px 14px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    main {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 60px;
+      padding: 60px 80px;
+      align-items: center;
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      font-size: 42px;
+      line-height: 1.15;
+      color: #f5f3ff;
+      margin-bottom: 20px;
+      font-weight: 700;
+    }
+
+    .hero h1 em {
+      color: #a78bfa;
+      font-style: normal;
+    }
+
+    .hero p {
+      font-size: 17px;
+      line-height: 1.6;
+      color: #c4b5fd;
+      margin-bottom: 28px;
+      max-width: 460px;
+    }
+
+    .hero ul {
+      list-style: none;
+      margin-bottom: 36px;
+    }
+
+    .hero li {
+      font-size: 15px;
+      color: #ddd6fe;
+      padding: 8px 0 8px 26px;
+      position: relative;
+    }
+
+    .hero li::before {
+      content: "→";
+      position: absolute;
+      left: 0;
+      color: #a78bfa;
+      font-weight: 700;
+    }
+
+    .actions { display: flex; gap: 14px; flex-wrap: wrap; }
+
+    .btn {
+      padding: 14px 26px;
+      font-size: 15px;
+      font-weight: 600;
+      border-radius: 10px;
+      cursor: pointer;
+      border: none;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: #7c3aed;
+      color: #fff;
+    }
+
+    .btn-primary:hover { background: #6d28d9; }
+
+    .btn-ghost {
+      background: transparent;
+      color: #c4b5fd;
+      border: 1px solid #7c3aed;
+    }
+
+    .btn-ghost:hover {
+      background: rgba(124, 58, 237, 0.15);
+    }
+
+    .panel {
+      background: #2a1a44;
+      border-radius: 20px;
+      padding: 32px 28px;
+      border: 1px solid rgba(167, 139, 250, 0.25);
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+    }
+
+    .panel h2 {
+      font-size: 13px;
+      color: #a78bfa;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      margin-bottom: 24px;
+      font-weight: 600;
+    }
+
+    .device {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 18px;
+      background: #1e1230;
+      border-radius: 14px;
+      margin-bottom: 20px;
+      border: 1px solid rgba(167, 139, 250, 0.15);
+    }
+
+    .device-icon {
+      width: 46px;
+      height: 46px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, #7c3aed, #a78bfa);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      flex-shrink: 0;
+    }
+
+    .device-info { flex: 1; }
+
+    .device-info strong {
+      display: block;
+      font-size: 15px;
+      color: #f5f3ff;
+      margin-bottom: 4px;
+    }
+
+    .device-info small {
+      font-size: 13px;
+      color: #a78bfa;
+    }
+
+    .device-info small.on { color: #4ade80; }
+
+    .dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #ef4444;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+
+    .dot.on { background: #4ade80; }
+
+    .log {
+      background: #1e1230;
+      border-radius: 12px;
+      padding: 16px;
+      font-size: 13px;
+      color: #a78bfa;
+      min-height: 48px;
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+      border: 1px dashed rgba(167, 139, 250, 0.25);
+      font-family: "SF Mono", Menlo, monospace;
+    }
+
+    .log.success { color: #4ade80; border-color: rgba(74, 222, 128, 0.4); }
+    .log.error   { color: #f87171; border-color: rgba(248, 113, 113, 0.4); }
+
+    .panel-btn {
+      width: 100%;
+      padding: 14px;
+      background: #7c3aed;
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .panel-btn:hover:not(:disabled) { background: #6d28d9; }
+
+    .panel-btn:disabled {
+      background: #3b2a5c;
+      color: #a78bfa;
+      cursor: not-allowed;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 12px;
+      color: #6b5b8a;
+      border-top: 1px solid rgba(196, 181, 253, 0.1);
+    }
+
+    @media (max-width: 900px) {
+      main {
+        grid-template-columns: 1fr;
+        padding: 40px 24px;
+        gap: 40px;
+      }
+      .hero h1 { font-size: 30px; }
+      header { padding: 16px 24px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">Vitalis <span>Care</span></div>
+    <div class="tag">Onboarding do Cuidador</div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Bem-vindo ao <em>Lembrete Inteligente</em></h1>
+      <p>
+        A IA ajusta os horários conforme a rotina do paciente. Você decide o que aceitar, ajustar ou desfazer — sempre.
+      </p>
+      <ul>
+        <li>Configuração guiada em poucos passos</li>
+        <li>Explicação clara de cada ajuste automático</li>
+        <li>Controle total nas mãos do cuidador</li>
+      </ul>
+      <div class="actions">
+        <button class="btn btn-primary" id="btnComecar">Começar configuração</button>
+        <button class="btn btn-ghost" id="btnAjuda">Preciso de ajuda</button>
+      </div>
+    </section>
+
+    <aside class="panel">
+      <h2>Dispositivo conectado</h2>
+
+      <div class="device">
+        <div class="device-icon">⌚</div>
+        <div class="device-info">
+          <strong>Wearable Vitalis</strong>
+          <small id="status"><span class="dot"></span>Verificando...</small>
+        </div>
+      </div>
+
+      <div class="log" id="log">Aguardando ação do usuário...</div>
+
+      <button class="panel-btn" id="btnVincular" disabled>Vincular wearable</button>
+    </aside>
+  </main>
+
+  <footer>Protótipo acadêmico — Exercício 12 · Vitalis Care</footer>
+
+  <script>
+    const statusEl = document.getElementById("status");
+    const logEl = document.getElementById("log");
+    const btnVincular = document.getElementById("btnVincular");
+    const btnComecar = document.getElementById("btnComecar");
+    const btnAjuda = document.getElementById("btnAjuda");
+
+    const API = "http://localhost:3000/api";
+
+    function setLog(msg, type = "") {
+      logEl.textContent = msg;
+      logEl.className = "log " + type;
+    }
+
+    function atualizarStatus(data) {
+      if (data.vinculado) {
+        statusEl.innerHTML = '<span class="dot on"></span>Vinculado';
+        statusEl.className = "on";
+        btnVincular.disabled = true;
+        btnVincular.textContent = "Wearable já vinculado";
+      } else {
+        statusEl.innerHTML = '<span class="dot"></span>Não vinculado';
+        statusEl.className = "";
+        btnVincular.disabled = false;
+        btnVincular.textContent = "Vincular wearable";
+      }
+    }
+
+    async function carregarStatus() {
+      try {
+        const res = await fetch(`${API}/wearable-status`);
+        const data = await res.json();
+        atualizarStatus(data);
+        setLog("Status carregado do servidor.");
+      } catch (err) {
+        statusEl.innerHTML = '<span class="dot"></span>Offline';
+        setLog("Backend indisponível.", "error");
+      }
+    }
+
+    btnVincular.addEventListener("click", async () => {
+      btnVincular.disabled = true;
+      btnVincular.textContent = "Vinculando...";
+      setLog("Enviando requisição...");
+
+      try {
+        const res = await fetch(`${API}/wearable/vincular`, { method: "POST" });
+        const data = await res.json();
+        atualizarStatus(data.wearable);
+        setLog("✓ Wearable vinculado com sucesso.", "success");
+      } catch (err) {
+        setLog("Erro ao vincular. Tente novamente.", "error");
+        btnVincular.disabled = false;
+        btnVincular.textContent = "Vincular wearable";
+      }
+    });
+
+    btnComecar.addEventListener("click", () => {
+      setLog("Fluxo de configuração iniciado (protótipo).");
+    });
+
+    btnAjuda.addEventListener("click", () => {
+      setLog("Canal de ajuda aberto (protótipo).");
+    });
+
+    carregarStatus();
+  </script>
+</body>
+</html>
