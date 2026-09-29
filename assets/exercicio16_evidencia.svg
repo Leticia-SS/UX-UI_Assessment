@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="725pt" height="206pt" viewBox="0.00 0.00 725.00 206.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 202)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-202 721.32,-202 721.32,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M46.52,-198C46.52,-198 13.39,-198 13.39,-198 7.39,-198 1.39,-192 1.39,-186 1.39,-186 1.39,-174 1.39,-174 1.39,-168 7.39,-162 13.39,-162 13.39,-162 46.52,-162 46.52,-162 52.52,-162 58.52,-168 58.52,-174 58.52,-174 58.52,-186 58.52,-186 58.52,-192 52.52,-198 46.52,-198"/>
+<text xml:space="preserve" text-anchor="middle" x="29.96" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00" fill="white">Pesquisa</text>
+</g>
+<!-- E -->
+<g id="node5" class="node">
+<title>E</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M213.51,-117C213.51,-117 107.91,-117 107.91,-117 101.91,-117 95.91,-111 95.91,-105 95.91,-105 95.91,-93 95.91,-93 95.91,-87 101.91,-81 107.91,-81 107.91,-81 213.51,-81 213.51,-81 219.51,-81 225.51,-87 225.51,-93 225.51,-93 225.51,-105 225.51,-105 225.51,-111 219.51,-117 213.51,-117"/>
+<text xml:space="preserve" text-anchor="middle" x="160.71" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00" fill="white">Evidência</text>
+</g>
+<!-- A&#45;&gt;E -->
+<g id="edge1" class="edge">
+<title>A-&gt;E</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M58.26,-162.82C77.33,-150.83 102.97,-134.69 123.71,-121.65"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="124.95,-123.76 129.57,-117.96 122.34,-119.62 124.95,-123.76"/>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<path fill="#f4a261" stroke="black" stroke-width="0" d="M44.96,-144C44.96,-144 14.96,-144 14.96,-144 8.96,-144 2.96,-138 2.96,-132 2.96,-132 2.96,-120 2.96,-120 2.96,-114 8.96,-108 14.96,-108 14.96,-108 44.96,-108 44.96,-108 50.96,-108 56.96,-114 56.96,-120 56.96,-120 56.96,-132 56.96,-132 56.96,-138 50.96,-144 44.96,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="29.96" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00" fill="white">Mapas</text>
+</g>
+<!-- B&#45;&gt;E -->
+<g id="edge2" class="edge">
+<title>B-&gt;E</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M56.7,-120.6C65.82,-118.69 76.59,-116.43 87.66,-114.11"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="88.04,-116.53 94.39,-112.7 87.04,-111.74 88.04,-116.53"/>
+</g>
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M45.97,-90C45.97,-90 13.95,-90 13.95,-90 7.95,-90 1.95,-84 1.95,-78 1.95,-78 1.95,-66 1.95,-66 1.95,-60 7.95,-54 13.95,-54 13.95,-54 45.97,-54 45.97,-54 51.97,-54 57.97,-60 57.97,-66 57.97,-66 57.97,-78 57.97,-78 57.97,-84 51.97,-90 45.97,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="29.96" y="-69" font-family="Helvetica,sans-Serif" font-size="10.00" fill="white">Protótipo</text>
+</g>
+<!-- C&#45;&gt;E -->
+<g id="edge3" class="edge">
+<title>C-&gt;E</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M57.95,-77.66C66.79,-79.51 77.08,-81.67 87.64,-83.89"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="87.02,-86.26 94.38,-85.3 88.03,-81.46 87.02,-86.26"/>
+</g>
+<!-- D -->
+<g id="node4" class="node">
+<title>D</title>
+<path fill="#6a4c93" stroke="black" stroke-width="0" d="M47.91,-36C47.91,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 47.91,0 47.91,0 53.91,0 59.91,-6 59.91,-12 59.91,-12 59.91,-24 59.91,-24 59.91,-30 53.91,-36 47.91,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="29.96" y="-15" font-family="Helvetica,sans-Serif" font-size="10.00" fill="white">Avaliação</text>
+</g>
+<!-- D&#45;&gt;E -->
+<g id="edge4" class="edge">
+<title>D-&gt;E</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M59.53,-35.98C78.53,-47.93 103.64,-63.73 123.96,-76.51"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="122.45,-78.45 129.68,-80.11 125.06,-74.31 122.45,-78.45"/>
+</g>
+<!-- F -->
+<g id="node6" class="node">
+<title>F</title>
+<path fill="#d6e4f5" stroke="black" stroke-width="0" d="M316.1,-140C316.1,-140 273.51,-140 273.51,-140 267.51,-140 261.51,-134 261.51,-128 261.51,-128 261.51,-116 261.51,-116 261.51,-110 267.51,-104 273.51,-104 273.51,-104 316.1,-104 316.1,-104 322.1,-104 328.1,-110 328.1,-116 328.1,-116 328.1,-128 328.1,-128 328.1,-134 322.1,-140 316.1,-140"/>
+<text xml:space="preserve" text-anchor="middle" x="294.81" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">Problema</text>
+<text xml:space="preserve" text-anchor="middle" x="294.81" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">identificado</text>
+</g>
+<!-- E&#45;&gt;F -->
+<g id="edge5" class="edge">
+<title>E-&gt;F</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M225.44,-110.1C234.84,-111.73 244.3,-113.38 253.07,-114.91"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="252.46,-117.29 259.78,-116.08 253.3,-112.46 252.46,-117.29"/>
+</g>
+<!-- G -->
+<g id="node7" class="node">
+<title>G</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M411.47,-140C411.47,-140 376.1,-140 376.1,-140 370.1,-140 364.1,-134 364.1,-128 364.1,-128 364.1,-116 364.1,-116 364.1,-110 370.1,-104 376.1,-104 376.1,-104 411.47,-104 411.47,-104 417.47,-104 423.47,-110 423.47,-116 423.47,-116 423.47,-128 423.47,-128 423.47,-134 417.47,-140 411.47,-140"/>
+<text xml:space="preserve" text-anchor="middle" x="393.79" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Decisão</text>
+<text xml:space="preserve" text-anchor="middle" x="393.79" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">de design</text>
+</g>
+<!-- F&#45;&gt;G -->
+<g id="edge6" class="edge">
+<title>F-&gt;G</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M328.1,-122C336.86,-122 346.42,-122 355.43,-122"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="355.4,-124.45 362.4,-122 355.4,-119.55 355.4,-124.45"/>
+</g>
+<!-- H -->
+<g id="node8" class="node">
+<title>H</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M502.93,-140C502.93,-140 471.47,-140 471.47,-140 465.47,-140 459.47,-134 459.47,-128 459.47,-128 459.47,-116 459.47,-116 459.47,-110 465.47,-104 471.47,-104 471.47,-104 502.93,-104 502.93,-104 508.93,-104 514.93,-110 514.93,-116 514.93,-116 514.93,-128 514.93,-128 514.93,-134 508.93,-140 502.93,-140"/>
+<text xml:space="preserve" text-anchor="middle" x="487.2" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Hipótese</text>
+</g>
+<!-- G&#45;&gt;H -->
+<g id="edge7" class="edge">
+<title>G-&gt;H</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M423.21,-122C432.03,-122 441.85,-122 451.07,-122"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="450.85,-124.45 457.85,-122 450.85,-119.55 450.85,-124.45"/>
+</g>
+<!-- I -->
+<g id="node9" class="node">
+<title>I</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M611.07,-140C611.07,-140 562.93,-140 562.93,-140 556.93,-140 550.93,-134 550.93,-128 550.93,-128 550.93,-116 550.93,-116 550.93,-110 556.93,-104 562.93,-104 562.93,-104 611.07,-104 611.07,-104 617.07,-104 623.07,-110 623.07,-116 623.07,-116 623.07,-128 623.07,-128 623.07,-134 617.07,-140 611.07,-140"/>
+<text xml:space="preserve" text-anchor="middle" x="587" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Experimento</text>
+</g>
+<!-- H&#45;&gt;I -->
+<g id="edge8" class="edge">
+<title>H-&gt;I</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M514.93,-122C523.5,-122 533.23,-122 542.67,-122"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="542.41,-124.45 549.41,-122 542.41,-119.55 542.41,-124.45"/>
+</g>
+<!-- J -->
+<g id="node10" class="node">
+<title>J</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M705.32,-117C705.32,-117 671.07,-117 671.07,-117 665.07,-117 659.07,-111 659.07,-105 659.07,-105 659.07,-93 659.07,-93 659.07,-87 665.07,-81 671.07,-81 671.07,-81 705.32,-81 705.32,-81 711.32,-81 717.32,-87 717.32,-93 717.32,-93 717.32,-105 717.32,-105 717.32,-111 711.32,-117 705.32,-117"/>
+<text xml:space="preserve" text-anchor="middle" x="688.19" y="-102" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Nova</text>
+<text xml:space="preserve" text-anchor="middle" x="688.19" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">evidência</text>
+</g>
+<!-- I&#45;&gt;J -->
+<g id="edge9" class="edge">
+<title>I-&gt;J</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M622.97,-113.89C632.02,-111.79 641.78,-109.53 650.89,-107.42"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="651.35,-109.83 657.61,-105.86 650.24,-105.05 651.35,-109.83"/>
+</g>
+<!-- J&#45;&gt;E -->
+<g id="edge10" class="edge">
+<title>J-&gt;E</title>
+<path fill="none" stroke="#7c3aed" stroke-width="1.2" stroke-dasharray="5,2" d="M659.3,-93.72C620.92,-86.93 549.58,-76 488.2,-76 392.79,-76 392.79,-76 392.79,-76 339.38,-76 279.38,-82.16 233.9,-88.1"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" stroke-width="1.2" points="233.71,-85.65 227.09,-89.01 234.36,-90.51 233.71,-85.65"/>
+</g>
+</g>
+</svg>

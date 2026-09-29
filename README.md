@@ -1,4 +1,4 @@
-# Vitalis Care — Protótipo de Onboarding do Cuidador
+# Vitalis Care - Protótipo de Onboarding do Cuidador
 
 Protótipo funcional desenvolvido para o Exercício 12. A aplicação apresenta uma tela de onboarding do cuidador integrada a um backend simples responsável por consultar e atualizar o status de um wearable.
 

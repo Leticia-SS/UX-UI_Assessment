@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1087pt" height="595pt" viewBox="0.00 0.00 1087.00 595.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 591)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-591 1083,-591 1083,4 -4,4"/>
+<!-- F1 -->
+<g id="node1" class="node">
+<title>F1</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M132,-231C132,-231 12,-231 12,-231 6,-231 0,-225 0,-219 0,-219 0,-207 0,-207 0,-201 6,-195 12,-195 12,-195 132,-195 132,-195 138,-195 144,-201 144,-207 144,-207 144,-219 144,-219 144,-225 138,-231 132,-231"/>
+<text xml:space="preserve" text-anchor="middle" x="72" y="-209.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">1. CONFIGURAÇÃO</text>
+</g>
+<!-- F2 -->
+<g id="node2" class="node">
+<title>F2</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M319,-296C319,-296 199,-296 199,-296 193,-296 187,-290 187,-284 187,-284 187,-272 187,-272 187,-266 193,-260 199,-260 199,-260 319,-260 319,-260 325,-260 331,-266 331,-272 331,-272 331,-284 331,-284 331,-290 325,-296 319,-296"/>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-274.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">2. RECEBIMENTO</text>
+</g>
+<!-- F1&#45;&gt;F2 -->
+<g id="edge1" class="edge">
+<title>F1-&gt;F2</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M124.04,-230.93C147.2,-239.07 174.73,-248.74 198.79,-257.2"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="197.67,-259.4 205.09,-259.41 199.3,-254.78 197.67,-259.4"/>
+</g>
+<!-- A1 -->
+<g id="node6" class="node">
+<title>A1</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M319,-235C319,-235 199,-235 199,-235 193,-235 187,-229 187,-223 187,-223 187,-203 187,-203 187,-197 193,-191 199,-191 199,-191 319,-191 319,-191 325,-191 331,-197 331,-203 331,-203 331,-223 331,-223 331,-229 325,-235 319,-235"/>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-222" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Ação:</text>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Cuidador configura</text>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-198" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">horários</text>
+</g>
+<!-- F1&#45;&gt;A1 -->
+<!-- F1&#45;&gt;A1 -->
+<!-- F3 -->
+<g id="node3" class="node">
+<title>F3</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M506,-326C506,-326 386,-326 386,-326 380,-326 374,-320 374,-314 374,-314 374,-302 374,-302 374,-296 380,-290 386,-290 386,-290 506,-290 506,-290 512,-290 518,-296 518,-302 518,-302 518,-314 518,-314 518,-320 512,-326 506,-326"/>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-304.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">3. AÇÃO</text>
+</g>
+<!-- F2&#45;&gt;F3 -->
+<g id="edge2" class="edge">
+<title>F2-&gt;F3</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M331,-289.51C342.39,-291.36 354.25,-293.28 365.83,-295.16"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="365.1,-297.52 372.4,-296.23 365.88,-292.69 365.1,-297.52"/>
+</g>
+<!-- B1 -->
+<g id="node10" class="node">
+<title>B1</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M506,-265C506,-265 386,-265 386,-265 380,-265 374,-259 374,-253 374,-253 374,-241 374,-241 374,-235 380,-229 386,-229 386,-229 506,-229 506,-229 512,-229 518,-235 518,-241 518,-241 518,-253 518,-253 518,-259 512,-265 506,-265"/>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-250" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Ação:</text>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-238" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Recebe lembrete</text>
+</g>
+<!-- F2&#45;&gt;B1 -->
+<!-- F4 -->
+<g id="node4" class="node">
+<title>F4</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M693,-358C693,-358 573,-358 573,-358 567,-358 561,-352 561,-346 561,-346 561,-334 561,-334 561,-328 567,-322 573,-322 573,-322 693,-322 693,-322 699,-322 705,-328 705,-334 705,-334 705,-346 705,-346 705,-352 699,-358 693,-358"/>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-336.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">4. AJUSTE DA IA</text>
+</g>
+<!-- F3&#45;&gt;F4 -->
+<g id="edge3" class="edge">
+<title>F3-&gt;F4</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M518,-320.28C529.39,-322.25 541.25,-324.3 552.83,-326.31"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="552.09,-328.66 559.4,-327.44 552.92,-323.84 552.09,-328.66"/>
+</g>
+<!-- C1 -->
+<g id="node14" class="node">
+<title>C1</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M693,-297C693,-297 573,-297 573,-297 567,-297 561,-291 561,-285 561,-285 561,-265 561,-265 561,-259 567,-253 573,-253 573,-253 693,-253 693,-253 699,-253 705,-259 705,-265 705,-265 705,-285 705,-285 705,-291 699,-297 693,-297"/>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-284" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Ação:</text>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Toma remédio</text>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-260" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">e confirma</text>
+</g>
+<!-- F3&#45;&gt;C1 -->
+<!-- F5 -->
+<g id="node5" class="node">
+<title>F5</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M880,-388C880,-388 760,-388 760,-388 754,-388 748,-382 748,-376 748,-376 748,-364 748,-364 748,-358 754,-352 760,-352 760,-352 880,-352 880,-352 886,-352 892,-358 892,-364 892,-364 892,-376 892,-376 892,-382 886,-388 880,-388"/>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-366.7" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">5. SUPORTE</text>
+</g>
+<!-- F4&#45;&gt;F5 -->
+<g id="edge4" class="edge">
+<title>F4-&gt;F5</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M705,-351.51C716.39,-353.36 728.25,-355.28 739.83,-357.16"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="739.1,-359.52 746.4,-358.23 739.88,-354.69 739.1,-359.52"/>
+</g>
+<!-- D1 -->
+<g id="node18" class="node">
+<title>D1</title>
+<path fill="#d6e4f5" stroke="black" stroke-width="0" d="M880,-327C880,-327 760,-327 760,-327 754,-327 748,-321 748,-315 748,-315 748,-303 748,-303 748,-297 754,-291 760,-291 760,-291 880,-291 880,-291 886,-291 892,-297 892,-303 892,-303 892,-315 892,-315 892,-321 886,-327 880,-327"/>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">Ação:</text>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-300" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">IA muda horário</text>
+</g>
+<!-- F4&#45;&gt;D1 -->
+<!-- E1 -->
+<g id="node22" class="node">
+<title>E1</title>
+<path fill="#ede9fe" stroke="black" stroke-width="0" d="M1067,-388C1067,-388 947,-388 947,-388 941,-388 935,-382 935,-376 935,-376 935,-364 935,-364 935,-358 941,-352 947,-352 947,-352 1067,-352 1067,-352 1073,-352 1079,-358 1079,-364 1079,-364 1079,-376 1079,-376 1079,-382 1073,-388 1067,-388"/>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-373" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a1a6a">Ação:</text>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-361" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a1a6a">Liga para cuidador</text>
+</g>
+<!-- F5&#45;&gt;E1 -->
+<!-- A2 -->
+<g id="node7" class="node">
+<title>A2</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M319,-166C319,-166 199,-166 199,-166 193,-166 187,-160 187,-154 187,-154 187,-142 187,-142 187,-136 193,-130 199,-130 199,-130 319,-130 319,-130 325,-130 331,-136 331,-142 331,-142 331,-154 331,-154 331,-160 325,-166 319,-166"/>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Touchpoint:</text>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">App + telefone</text>
+</g>
+<!-- A1&#45;&gt;A2 -->
+<!-- A3 -->
+<g id="node8" class="node">
+<title>A3</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M319,-105C319,-105 199,-105 199,-105 193,-105 187,-99 187,-93 187,-93 187,-81 187,-81 187,-75 193,-69 199,-69 199,-69 319,-69 319,-69 325,-69 331,-75 331,-81 331,-81 331,-93 331,-93 331,-99 325,-105 319,-105"/>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Emoção:</text>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Confiança e ansiedade</text>
+</g>
+<!-- A2&#45;&gt;A3 -->
+<!-- A4 -->
+<g id="node9" class="node">
+<title>A4</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M319,-44C319,-44 199,-44 199,-44 193,-44 187,-38 187,-32 187,-32 187,-12 187,-12 187,-6 193,0 199,0 199,0 319,0 319,0 325,0 331,-6 331,-12 331,-12 331,-32 331,-32 331,-38 325,-44 319,-44"/>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Oportunidade:</text>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-19" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Confirmação visual</text>
+<text xml:space="preserve" text-anchor="middle" x="259" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">simples</text>
+</g>
+<!-- A3&#45;&gt;A4 -->
+<!-- B2 -->
+<g id="node11" class="node">
+<title>B2</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M506,-387C506,-387 386,-387 386,-387 380,-387 374,-381 374,-375 374,-375 374,-363 374,-363 374,-357 380,-351 386,-351 386,-351 506,-351 506,-351 512,-351 518,-357 518,-363 518,-363 518,-375 518,-375 518,-381 512,-387 506,-387"/>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-372" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Touchpoint:</text>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Notificação + wearable</text>
+</g>
+<!-- B3 -->
+<g id="node12" class="node">
+<title>B3</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M506,-448C506,-448 386,-448 386,-448 380,-448 374,-442 374,-436 374,-436 374,-424 374,-424 374,-418 380,-412 386,-412 386,-412 506,-412 506,-412 512,-412 518,-418 518,-424 518,-424 518,-436 518,-436 518,-442 512,-448 506,-448"/>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-433" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Emoção:</text>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-421" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Segurança ou confusão</text>
+</g>
+<!-- B4 -->
+<g id="node13" class="node">
+<title>B4</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M506,-509C506,-509 386,-509 386,-509 380,-509 374,-503 374,-497 374,-497 374,-485 374,-485 374,-479 380,-473 386,-473 386,-473 506,-473 506,-473 512,-473 518,-479 518,-485 518,-485 518,-497 518,-497 518,-503 512,-509 506,-509"/>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-494" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Oportunidade:</text>
+<text xml:space="preserve" text-anchor="middle" x="446" y="-482" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Aviso claro de ajuste</text>
+</g>
+<!-- C2 -->
+<g id="node15" class="node">
+<title>C2</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M693,-419C693,-419 573,-419 573,-419 567,-419 561,-413 561,-407 561,-407 561,-395 561,-395 561,-389 567,-383 573,-383 573,-383 693,-383 693,-383 699,-383 705,-389 705,-395 705,-395 705,-407 705,-407 705,-413 699,-419 693,-419"/>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-404" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Touchpoint:</text>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-392" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Botão 'Tomei'</text>
+</g>
+<!-- C3 -->
+<g id="node16" class="node">
+<title>C3</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M693,-480C693,-480 573,-480 573,-480 567,-480 561,-474 561,-468 561,-468 561,-456 561,-456 561,-450 567,-444 573,-444 573,-444 693,-444 693,-444 699,-444 705,-450 705,-456 705,-456 705,-468 705,-468 705,-474 699,-480 693,-480"/>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Emoção:</text>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-453" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">Orgulho ou culpa</text>
+</g>
+<!-- C4 -->
+<g id="node17" class="node">
+<title>C4</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M693,-549C693,-549 573,-549 573,-549 567,-549 561,-543 561,-537 561,-537 561,-517 561,-517 561,-511 567,-505 573,-505 573,-505 693,-505 693,-505 699,-505 705,-511 705,-517 705,-517 705,-537 705,-537 705,-543 699,-549 693,-549"/>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-536" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Oportunidade:</text>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-524" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Confirmação por voz</text>
+<text xml:space="preserve" text-anchor="middle" x="633" y="-512" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">ou botão grande</text>
+</g>
+<!-- D2 -->
+<g id="node19" class="node">
+<title>D2</title>
+<path fill="#d6e4f5" stroke="black" stroke-width="0" d="M880,-449C880,-449 760,-449 760,-449 754,-449 748,-443 748,-437 748,-437 748,-425 748,-425 748,-419 754,-413 760,-413 760,-413 880,-413 880,-413 886,-413 892,-419 892,-425 892,-425 892,-437 892,-437 892,-443 886,-449 880,-449"/>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-434" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">Touchpoint:</text>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-422" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">App + notificação</text>
+</g>
+<!-- D3 -->
+<g id="node20" class="node">
+<title>D3</title>
+<path fill="#d6e4f5" stroke="black" stroke-width="0" d="M880,-510C880,-510 760,-510 760,-510 754,-510 748,-504 748,-498 748,-498 748,-486 748,-486 748,-480 754,-474 760,-474 760,-474 880,-474 880,-474 886,-474 892,-480 892,-486 892,-486 892,-498 892,-498 892,-504 886,-510 880,-510"/>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-495" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">Emoção:</text>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-483" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">Estranhamento</text>
+</g>
+<!-- D4 -->
+<g id="node21" class="node">
+<title>D4</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M880,-579C880,-579 760,-579 760,-579 754,-579 748,-573 748,-567 748,-567 748,-547 748,-547 748,-541 754,-535 760,-535 760,-535 880,-535 880,-535 886,-535 892,-541 892,-547 892,-547 892,-567 892,-567 892,-573 886,-579 880,-579"/>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-566" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Oportunidade:</text>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-554" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Explicar motivo</text>
+<text xml:space="preserve" text-anchor="middle" x="820" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">e pedir aceite</text>
+</g>
+<!-- E2 -->
+<g id="node23" class="node">
+<title>E2</title>
+<path fill="#ede9fe" stroke="black" stroke-width="0" d="M1067,-449C1067,-449 947,-449 947,-449 941,-449 935,-443 935,-437 935,-437 935,-425 935,-425 935,-419 941,-413 947,-413 947,-413 1067,-413 1067,-413 1073,-413 1079,-419 1079,-425 1079,-425 1079,-437 1079,-437 1079,-443 1073,-449 1067,-449"/>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-434" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a1a6a">Touchpoint:</text>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-422" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a1a6a">Telefone + app</text>
+</g>
+<!-- E3 -->
+<g id="node24" class="node">
+<title>E3</title>
+<path fill="#ede9fe" stroke="black" stroke-width="0" d="M1067,-518C1067,-518 947,-518 947,-518 941,-518 935,-512 935,-506 935,-506 935,-486 935,-486 935,-480 941,-474 947,-474 947,-474 1067,-474 1067,-474 1073,-474 1079,-480 1079,-486 1079,-486 1079,-506 1079,-506 1079,-512 1073,-518 1067,-518"/>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-505" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a1a6a">Emoção:</text>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-493" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a1a6a">Frustração e</text>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-481" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a1a6a">dependência</text>
+</g>
+<!-- E4 -->
+<g id="node25" class="node">
+<title>E4</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M1067,-587C1067,-587 947,-587 947,-587 941,-587 935,-581 935,-575 935,-575 935,-555 935,-555 935,-549 941,-543 947,-543 947,-543 1067,-543 1067,-543 1073,-543 1079,-549 1079,-555 1079,-555 1079,-575 1079,-575 1079,-581 1073,-587 1067,-587"/>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-574" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Oportunidade:</text>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-562" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Canal fácil para</text>
+<text xml:space="preserve" text-anchor="middle" x="1007" y="-550" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">entender mudança</text>
+</g>
+</g>
+</svg>

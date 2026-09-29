@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="834pt" height="210pt" viewBox="0.00 0.00 834.00 210.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 206)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-206 830.06,-206 830.06,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M45.58,-63C45.58,-63 12,-63 12,-63 6,-63 0,-57 0,-51 0,-51 0,-39 0,-39 0,-33 6,-27 12,-27 12,-27 45.58,-27 45.58,-27 51.58,-27 57.58,-33 57.58,-39 57.58,-39 57.58,-51 57.58,-51 57.58,-57 51.58,-63 45.58,-63"/>
+<text xml:space="preserve" text-anchor="middle" x="28.79" y="-48.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Receber</text>
+<text xml:space="preserve" text-anchor="middle" x="28.79" y="-35.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">cuidado</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M151.71,-90C151.71,-90 118.14,-90 118.14,-90 112.14,-90 106.14,-84 106.14,-78 106.14,-78 106.14,-66 106.14,-66 106.14,-60 112.14,-54 118.14,-54 118.14,-54 151.71,-54 151.71,-54 157.71,-54 163.71,-60 163.71,-66 163.71,-66 163.71,-78 163.71,-78 163.71,-84 157.71,-90 151.71,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="134.92" y="-75.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Receber</text>
+<text xml:space="preserve" text-anchor="middle" x="134.92" y="-62.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">alerta</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M57.42,-52.16C69.78,-55.37 84.51,-59.19 97.73,-62.62"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="97.01,-64.96 104.4,-64.35 98.24,-60.22 97.01,-64.96"/>
+</g>
+<!-- A1 -->
+<g id="node7" class="node">
+<title>A1</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M164.27,-36C164.27,-36 105.58,-36 105.58,-36 99.58,-36 93.58,-30 93.58,-24 93.58,-24 93.58,-12 93.58,-12 93.58,-6 99.58,0 105.58,0 105.58,0 164.27,0 164.27,0 170.27,0 176.27,-6 176.27,-12 176.27,-12 176.27,-24 176.27,-24 176.27,-30 170.27,-36 164.27,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="134.92" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">MVP:</text>
+<text xml:space="preserve" text-anchor="middle" x="134.92" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">alertas básicos</text>
+</g>
+<!-- A&#45;&gt;A1 -->
+<g id="edge6" class="edge">
+<title>A-&gt;A1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M57.42,-37.84C66,-35.61 75.72,-33.09 85.28,-30.61"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="85.69,-33.04 91.85,-28.91 84.46,-28.29 85.69,-33.04"/>
+</g>
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M275.29,-117C275.29,-117 238.64,-117 238.64,-117 232.64,-117 226.64,-111 226.64,-105 226.64,-105 226.64,-93 226.64,-93 226.64,-87 232.64,-81 238.64,-81 238.64,-81 275.29,-81 275.29,-81 281.29,-81 287.29,-87 287.29,-93 287.29,-93 287.29,-105 287.29,-105 287.29,-111 281.29,-117 275.29,-117"/>
+<text xml:space="preserve" text-anchor="middle" x="256.96" y="-102.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Entender</text>
+<text xml:space="preserve" text-anchor="middle" x="256.96" y="-89.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">alerta</text>
+</g>
+<!-- B&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>B-&gt;C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M163.46,-78.19C179.76,-81.86 200.63,-86.55 218.43,-90.56"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="217.74,-92.91 225.11,-92.06 218.81,-88.13 217.74,-92.91"/>
+</g>
+<!-- B1 -->
+<g id="node8" class="node">
+<title>B1</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M289.66,-63C289.66,-63 224.27,-63 224.27,-63 218.27,-63 212.27,-57 212.27,-51 212.27,-51 212.27,-39 212.27,-39 212.27,-33 218.27,-27 224.27,-27 224.27,-27 289.66,-27 289.66,-27 295.66,-27 301.66,-33 301.66,-39 301.66,-39 301.66,-51 301.66,-51 301.66,-57 295.66,-63 289.66,-63"/>
+<text xml:space="preserve" text-anchor="middle" x="256.96" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">MVP:</text>
+<text xml:space="preserve" text-anchor="middle" x="256.96" y="-36" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">status do evento</text>
+</g>
+<!-- B&#45;&gt;B1 -->
+<g id="edge7" class="edge">
+<title>B-&gt;B1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M163.46,-65.81C175.5,-63.1 190.03,-59.83 203.98,-56.69"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="204.49,-59.09 210.78,-55.16 203.42,-54.31 204.49,-59.09"/>
+</g>
+<!-- D -->
+<g id="node4" class="node">
+<title>D</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M406.52,-144C406.52,-144 376.52,-144 376.52,-144 370.52,-144 364.52,-138 364.52,-132 364.52,-132 364.52,-120 364.52,-120 364.52,-114 370.52,-108 376.52,-108 376.52,-108 406.52,-108 406.52,-108 412.52,-108 418.52,-114 418.52,-120 418.52,-120 418.52,-132 418.52,-132 418.52,-138 412.52,-144 406.52,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="391.52" y="-129.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Tomar</text>
+<text xml:space="preserve" text-anchor="middle" x="391.52" y="-116.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">decisão</text>
+</g>
+<!-- C&#45;&gt;D -->
+<g id="edge3" class="edge">
+<title>C-&gt;D</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M287.05,-104.93C307.42,-109.07 334.7,-114.63 356.14,-119"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="355.51,-121.37 362.86,-120.37 356.49,-116.57 355.51,-121.37"/>
+</g>
+<!-- C1 -->
+<g id="node9" class="node">
+<title>C1</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M433.38,-90C433.38,-90 349.66,-90 349.66,-90 343.66,-90 337.66,-84 337.66,-78 337.66,-78 337.66,-66 337.66,-66 337.66,-60 343.66,-54 349.66,-54 349.66,-54 433.38,-54 433.38,-54 439.38,-54 445.38,-60 445.38,-66 445.38,-66 445.38,-78 445.38,-78 445.38,-84 439.38,-90 433.38,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="391.52" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">R2:</text>
+<text xml:space="preserve" text-anchor="middle" x="391.52" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">explicabilidade da IA</text>
+</g>
+<!-- C&#45;&gt;C1 -->
+<g id="edge8" class="edge">
+<title>C-&gt;C1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M287.05,-93.07C299.48,-90.54 314.48,-87.49 329.15,-84.5"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="329.59,-86.91 335.96,-83.11 328.61,-82.11 329.59,-86.91"/>
+</g>
+<!-- E -->
+<g id="node5" class="node">
+<title>E</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M547.75,-173C547.75,-173 493.38,-173 493.38,-173 487.38,-173 481.38,-167 481.38,-161 481.38,-161 481.38,-149 481.38,-149 481.38,-143 487.38,-137 493.38,-137 493.38,-137 547.75,-137 547.75,-137 553.75,-137 559.75,-143 559.75,-149 559.75,-149 559.75,-161 559.75,-161 559.75,-167 553.75,-173 547.75,-173"/>
+<text xml:space="preserve" text-anchor="middle" x="520.57" y="-158.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Acompanhar</text>
+<text xml:space="preserve" text-anchor="middle" x="520.57" y="-145.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">ação</text>
+</g>
+<!-- D&#45;&gt;E -->
+<g id="edge4" class="edge">
+<title>D-&gt;E</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M418.23,-131.87C434.08,-135.49 454.86,-140.23 473.47,-144.48"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="472.71,-146.82 480.08,-145.99 473.8,-142.04 472.71,-146.82"/>
+</g>
+<!-- D1 -->
+<g id="node10" class="node">
+<title>D1</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M546.31,-119C546.31,-119 494.83,-119 494.83,-119 488.83,-119 482.83,-113 482.83,-107 482.83,-107 482.83,-87 482.83,-87 482.83,-81 488.83,-75 494.83,-75 494.83,-75 546.31,-75 546.31,-75 552.31,-75 558.31,-81 558.31,-87 558.31,-87 558.31,-107 558.31,-107 558.31,-113 552.31,-119 546.31,-119"/>
+<text xml:space="preserve" text-anchor="middle" x="520.57" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">R2:</text>
+<text xml:space="preserve" text-anchor="middle" x="520.57" y="-94" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">fila priorizada</text>
+<text xml:space="preserve" text-anchor="middle" x="520.57" y="-82" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">e override</text>
+</g>
+<!-- D&#45;&gt;D1 -->
+<g id="edge9" class="edge">
+<title>D-&gt;D1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M418.23,-120.13C434.45,-116.43 455.85,-111.54 474.8,-107.22"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="475.26,-109.63 481.53,-105.68 474.16,-104.85 475.26,-109.63"/>
+</g>
+<!-- F -->
+<g id="node6" class="node">
+<title>F</title>
+<path fill="#1a2a4a" stroke="black" stroke-width="0" d="M654.19,-202C654.19,-202 620.01,-202 620.01,-202 614.01,-202 608.01,-196 608.01,-190 608.01,-190 608.01,-178 608.01,-178 608.01,-172 614.01,-166 620.01,-166 620.01,-166 654.19,-166 654.19,-166 660.19,-166 666.19,-172 666.19,-178 666.19,-178 666.19,-190 666.19,-190 666.19,-196 660.19,-202 654.19,-202"/>
+<text xml:space="preserve" text-anchor="middle" x="637.1" y="-187.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Encerrar</text>
+<text xml:space="preserve" text-anchor="middle" x="637.1" y="-174.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">evento</text>
+</g>
+<!-- E&#45;&gt;F -->
+<g id="edge5" class="edge">
+<title>E-&gt;F</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M559.71,-164.66C572.61,-167.92 586.97,-171.56 599.73,-174.79"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="599.12,-177.16 606.51,-176.51 600.33,-172.41 599.12,-177.16"/>
+</g>
+<!-- E1 -->
+<g id="node11" class="node">
+<title>E1</title>
+<path fill="#e5d9f2" stroke="black" stroke-width="0" d="M666.45,-148C666.45,-148 607.75,-148 607.75,-148 601.75,-148 595.75,-142 595.75,-136 595.75,-136 595.75,-116 595.75,-116 595.75,-110 601.75,-104 607.75,-104 607.75,-104 666.45,-104 666.45,-104 672.45,-104 678.45,-110 678.45,-116 678.45,-116 678.45,-136 678.45,-136 678.45,-142 672.45,-148 666.45,-148"/>
+<text xml:space="preserve" text-anchor="middle" x="637.1" y="-135" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">R3:</text>
+<text xml:space="preserve" text-anchor="middle" x="637.1" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">monitoramento</text>
+<text xml:space="preserve" text-anchor="middle" x="637.1" y="-111" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#2a1a4a">avançado</text>
+</g>
+<!-- E&#45;&gt;E1 -->
+<g id="edge10" class="edge">
+<title>E-&gt;E1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M559.71,-145.34C568.58,-143.1 578.14,-140.68 587.39,-138.33"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="587.83,-140.75 594.01,-136.66 586.63,-136 587.83,-140.75"/>
+</g>
+<!-- F1 -->
+<g id="node12" class="node">
+<title>F1</title>
+<path fill="#d6e4f5" stroke="black" stroke-width="0" d="M814.06,-202C814.06,-202 726.45,-202 726.45,-202 720.45,-202 714.45,-196 714.45,-190 714.45,-190 714.45,-178 714.45,-178 714.45,-172 720.45,-166 726.45,-166 726.45,-166 814.06,-166 814.06,-166 820.06,-166 826.06,-172 826.06,-178 826.06,-178 826.06,-190 826.06,-190 826.06,-196 820.06,-202 814.06,-202"/>
+<text xml:space="preserve" text-anchor="middle" x="770.26" y="-187" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">R3:</text>
+<text xml:space="preserve" text-anchor="middle" x="770.26" y="-175" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d2a4a">otimização por dados</text>
+</g>
+<!-- F&#45;&gt;F1 -->
+<g id="edge11" class="edge">
+<title>F-&gt;F1</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M665.92,-184C677.62,-184 691.77,-184 705.78,-184"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="705.65,-186.45 712.65,-184 705.65,-181.55 705.65,-186.45"/>
+</g>
+</g>
+</svg>

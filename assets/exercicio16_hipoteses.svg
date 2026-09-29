@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="607pt" height="152pt" viewBox="0.00 0.00 607.00 152.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 148)">
+<title>G</title>
+<polygon fill="#f7f9fc" stroke="none" points="-4,4 -4,-148 603.16,-148 603.16,4 -4,4"/>
+<!-- H1 -->
+<g id="node1" class="node">
+<title>H1</title>
+<path fill="#e63946" stroke="black" stroke-width="0" d="M168,-36C168,-36 19.2,-36 19.2,-36 13.2,-36 7.2,-30 7.2,-24 7.2,-24 7.2,-12 7.2,-12 7.2,-6 13.2,0 19.2,0 19.2,0 168,0 168,0 174,0 180,-6 180,-12 180,-12 180,-24 180,-24 180,-30 174,-36 168,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="93.6" y="-21.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Hipótese 1</text>
+<text xml:space="preserve" text-anchor="middle" x="93.6" y="-8.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Controle sobre a IA</text>
+</g>
+<!-- H1A -->
+<g id="node2" class="node">
+<title>H1A</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M325.86,-36C325.86,-36 237.98,-36 237.98,-36 231.98,-36 225.98,-30 225.98,-24 225.98,-24 225.98,-12 225.98,-12 225.98,-6 231.98,0 237.98,0 237.98,0 325.86,0 325.86,0 331.86,0 337.86,-6 337.86,-12 337.86,-12 337.86,-24 337.86,-24 337.86,-30 331.86,-36 325.86,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="281.92" y="-15" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Explicação + controle</text>
+</g>
+<!-- H1&#45;&gt;H1A -->
+<g id="edge1" class="edge">
+<title>H1-&gt;H1A</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M179.85,-18C192.5,-18 205.34,-18 217.44,-18"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="217.28,-20.45 224.28,-18 217.28,-15.55 217.28,-20.45"/>
+</g>
+<!-- H1B -->
+<g id="node3" class="node">
+<title>H1B</title>
+<path fill="#fde2e4" stroke="black" stroke-width="0" d="M460.41,-36C460.41,-36 391.69,-36 391.69,-36 385.69,-36 379.69,-30 379.69,-24 379.69,-24 379.69,-12 379.69,-12 379.69,-6 385.69,0 391.69,0 391.69,0 460.41,0 460.41,0 466.41,0 472.41,-6 472.41,-12 472.41,-12 472.41,-24 472.41,-24 472.41,-30 466.41,-36 460.41,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="426.05" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">Usuário entende</text>
+<text xml:space="preserve" text-anchor="middle" x="426.05" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#3a0d12">e aceita ou altera</text>
+</g>
+<!-- H1A&#45;&gt;H1B -->
+<g id="edge2" class="edge">
+<title>H1A-&gt;H1B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M337.47,-18C348.58,-18 360.27,-18 371.36,-18"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="371.29,-20.45 378.29,-18 371.29,-15.55 371.29,-20.45"/>
+</g>
+<!-- H1C -->
+<g id="node4" class="node">
+<title>H1C</title>
+<path fill="#ffd6d6" stroke="black" stroke-width="0" d="M582.98,-36C582.98,-36 527.63,-36 527.63,-36 521.63,-36 515.63,-30 515.63,-24 515.63,-24 515.63,-12 515.63,-12 515.63,-6 521.63,0 527.63,0 527.63,0 582.98,0 582.98,0 588.98,0 594.98,-6 594.98,-12 594.98,-12 594.98,-24 594.98,-24 594.98,-30 588.98,-36 582.98,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="555.3" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">Maior controle</text>
+<text xml:space="preserve" text-anchor="middle" x="555.3" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a0000">percebido</text>
+</g>
+<!-- H1B&#45;&gt;H1C -->
+<g id="edge3" class="edge">
+<title>H1B-&gt;H1C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M472.27,-18C483.66,-18 495.9,-18 507.37,-18"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="507.15,-20.45 514.15,-18 507.15,-15.55 507.15,-20.45"/>
+</g>
+<!-- H2 -->
+<g id="node5" class="node">
+<title>H2</title>
+<path fill="#f4a261" stroke="black" stroke-width="0" d="M175.2,-90C175.2,-90 12,-90 12,-90 6,-90 0,-84 0,-78 0,-78 0,-66 0,-66 0,-60 6,-54 12,-54 12,-54 175.2,-54 175.2,-54 181.2,-54 187.2,-60 187.2,-66 187.2,-66 187.2,-78 187.2,-78 187.2,-84 181.2,-90 175.2,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="93.6" y="-75.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Hipótese 2</text>
+<text xml:space="preserve" text-anchor="middle" x="93.6" y="-62.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Priorização de alertas</text>
+</g>
+<!-- H2A -->
+<g id="node6" class="node">
+<title>H2A</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M309.32,-90C309.32,-90 254.52,-90 254.52,-90 248.52,-90 242.52,-84 242.52,-78 242.52,-78 242.52,-66 242.52,-66 242.52,-60 248.52,-54 254.52,-54 254.52,-54 309.32,-54 309.32,-54 315.32,-54 321.32,-60 321.32,-66 321.32,-66 321.32,-78 321.32,-78 321.32,-84 315.32,-90 309.32,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="281.92" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Fila priorizada</text>
+<text xml:space="preserve" text-anchor="middle" x="281.92" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">+ override</text>
+</g>
+<!-- H2&#45;&gt;H2A -->
+<g id="edge4" class="edge">
+<title>H2-&gt;H2A</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M186.94,-72C203.31,-72 219.71,-72 234.13,-72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="234.01,-74.45 241.01,-72 234.01,-69.55 234.01,-74.45"/>
+</g>
+<!-- H2B -->
+<g id="node7" class="node">
+<title>H2B</title>
+<path fill="#ffe8d6" stroke="black" stroke-width="0" d="M463.45,-90C463.45,-90 388.65,-90 388.65,-90 382.65,-90 376.65,-84 376.65,-78 376.65,-78 376.65,-66 376.65,-66 376.65,-60 382.65,-54 388.65,-54 388.65,-54 463.45,-54 463.45,-54 469.45,-54 475.45,-60 475.45,-66 475.45,-66 475.45,-78 475.45,-78 475.45,-84 469.45,-90 463.45,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="426.05" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">Cuidador / Central</text>
+<text xml:space="preserve" text-anchor="middle" x="426.05" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#4a2a10">tratam mais rápido</text>
+</g>
+<!-- H2A&#45;&gt;H2B -->
+<g id="edge5" class="edge">
+<title>H2A-&gt;H2B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M321.01,-72C335.44,-72 352.2,-72 368,-72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="367.84,-74.45 374.84,-72 367.84,-69.55 367.84,-74.45"/>
+</g>
+<!-- H2C -->
+<g id="node8" class="node">
+<title>H2C</title>
+<path fill="#ffe0c0" stroke="black" stroke-width="0" d="M587.16,-90C587.16,-90 523.45,-90 523.45,-90 517.45,-90 511.45,-84 511.45,-78 511.45,-78 511.45,-66 511.45,-66 511.45,-60 517.45,-54 523.45,-54 523.45,-54 587.16,-54 587.16,-54 593.16,-54 599.16,-60 599.16,-66 599.16,-66 599.16,-78 599.16,-78 599.16,-84 593.16,-90 587.16,-90"/>
+<text xml:space="preserve" text-anchor="middle" x="555.3" y="-75" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a4a00">Menos tempo</text>
+<text xml:space="preserve" text-anchor="middle" x="555.3" y="-63" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#7a4a00">até atendimento</text>
+</g>
+<!-- H2B&#45;&gt;H2C -->
+<g id="edge6" class="edge">
+<title>H2B-&gt;H2C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M475.16,-72C484.23,-72 493.74,-72 502.9,-72"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="502.74,-74.45 509.74,-72 502.74,-69.55 502.74,-74.45"/>
+</g>
+<!-- H3 -->
+<g id="node9" class="node">
+<title>H3</title>
+<path fill="#2a9d8f" stroke="black" stroke-width="0" d="M175.2,-144C175.2,-144 12,-144 12,-144 6,-144 0,-138 0,-132 0,-132 0,-120 0,-120 0,-114 6,-108 12,-108 12,-108 175.2,-108 175.2,-108 181.2,-108 187.2,-114 187.2,-120 187.2,-120 187.2,-132 187.2,-132 187.2,-138 181.2,-144 175.2,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="93.6" y="-129.3" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Hipótese 3</text>
+<text xml:space="preserve" text-anchor="middle" x="93.6" y="-116.1" font-family="Helvetica,sans-Serif" font-size="11.00" fill="white">Protocolo de emergência</text>
+</g>
+<!-- H3A -->
+<g id="node10" class="node">
+<title>H3A</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M328.65,-144C328.65,-144 235.2,-144 235.2,-144 229.2,-144 223.2,-138 223.2,-132 223.2,-132 223.2,-120 223.2,-120 223.2,-114 229.2,-108 235.2,-108 235.2,-108 328.65,-108 328.65,-108 334.65,-108 340.65,-114 340.65,-120 340.65,-120 340.65,-132 340.65,-132 340.65,-138 334.65,-144 328.65,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="281.92" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Etapas + responsáveis</text>
+<text xml:space="preserve" text-anchor="middle" x="281.92" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">+ timestamps</text>
+</g>
+<!-- H3&#45;&gt;H3A -->
+<g id="edge7" class="edge">
+<title>H3-&gt;H3A</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M186.94,-126C196.37,-126 205.82,-126 214.88,-126"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="214.63,-128.45 221.63,-126 214.63,-123.55 214.63,-128.45"/>
+</g>
+<!-- H3B -->
+<g id="node11" class="node">
+<title>H3B</title>
+<path fill="#d8f3ef" stroke="black" stroke-width="0" d="M455.68,-144C455.68,-144 396.41,-144 396.41,-144 390.41,-144 384.41,-138 384.41,-132 384.41,-132 384.41,-120 384.41,-120 384.41,-114 390.41,-108 396.41,-108 396.41,-108 455.68,-108 455.68,-108 461.68,-108 467.68,-114 467.68,-120 467.68,-120 467.68,-132 467.68,-132 467.68,-138 461.68,-144 455.68,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="426.05" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Menos dúvidas</text>
+<text xml:space="preserve" text-anchor="middle" x="426.05" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">na hora de agir</text>
+</g>
+<!-- H3A&#45;&gt;H3B -->
+<g id="edge8" class="edge">
+<title>H3A-&gt;H3B</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M340.32,-126C352.11,-126 364.42,-126 375.88,-126"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="375.65,-128.45 382.65,-126 375.65,-123.55 375.65,-128.45"/>
+</g>
+<!-- H3C -->
+<g id="node12" class="node">
+<title>H3C</title>
+<path fill="#c8ece6" stroke="black" stroke-width="0" d="M586.05,-144C586.05,-144 524.56,-144 524.56,-144 518.56,-144 512.56,-138 512.56,-132 512.56,-132 512.56,-120 512.56,-120 512.56,-114 518.56,-108 524.56,-108 524.56,-108 586.05,-108 586.05,-108 592.05,-108 598.05,-114 598.05,-120 598.05,-120 598.05,-132 598.05,-132 598.05,-138 592.05,-144 586.05,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="555.3" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">Rastreabilidade</text>
+<text xml:space="preserve" text-anchor="middle" x="555.3" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#0d3a34">do atendimento</text>
+</g>
+<!-- H3B&#45;&gt;H3C -->
+<g id="edge9" class="edge">
+<title>H3B-&gt;H3C</title>
+<path fill="none" stroke="#7a8aa0" stroke-width="1.2" d="M467.66,-126C479.25,-126 492.02,-126 504.11,-126"/>
+<polygon fill="#7a8aa0" stroke="#7a8aa0" stroke-width="1.2" points="503.95,-128.45 510.95,-126 503.95,-123.55 503.95,-128.45"/>
+</g>
+</g>
+</svg>
